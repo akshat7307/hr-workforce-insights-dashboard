@@ -1,0 +1,1001 @@
+EmployeeID,Name,Age,Gender,Department,Role,Salary,Join Date,Location,Performance Score,Projects Completed,Attendance %,Work Hours / Week,Overtime Hours,Attrition,Manager Name,Training Hours,Employee Engagement Score
+E1000,Amit Nair,52,,Sales,Analyst,32.3k,2021-07-02,Chennai,7/10,14,40,47,24,No,Manager X,22,8
+E1001 ,Rohit Bhat,Thirty,Female,Sales,Senior Analyst,121 327,2013-03-22,Hyderabad,,5,57,24,23,Y, ROHIT,14,
+E1002,MOHAN DAS,38,unknown,sales,Lead,38 726,Sep 15 2024,delhi ,N/A,11,72,27,21,1,priya ,33,1
+ 1003,sonu Nair,Thirty,male ,it,Executive,"₹86,542",Sep 10 2014,Chennai,6/10,17,98 pts,51 pts,25, ,Priya,5,
+E904,rahul Khandelwal,Thirty,F,markting,Intern,~72296,10-Aug-19,Mumbai,4,10/10,77,60%,1,no,Suresh,42,8/10
+E905,Mohan Khandelwal___,,Male,OPS,Manager,unknown,14/06/2010,Chennai,N/A,4,55,55%,2,yes,,31,
+E1006 ,Amit Joshi,Thirty,unknown,IT,Senior Analyst,58.9k,Dec 27 2020,Delhi,6,18,73,25,2,No,Neha,37,high
+,Vikram Das,38,Male,Hr ,Manager,29.6k,12/21/2010,Mumbai,,5,59,53 pts,21/10,Y,Priya,6,
+, Vikram Nair,,male ,Sales,Analyst,Rs 63719,15/11/2013,,9,3/10,74 pts,57,1,Yes,Manager X,13,8/10
+ 1009,Priya  Singh,,Male,IT,manager,unknown,26/06/2024,delhi ,N/A,1,92,34,12,Y,Manager X,41,high
+E1010,neha nair,, FEMALE,sales,associate,unknown,04/06/2012,Delhi,1/10,11,98,27,9,Y, ROHIT,8,
+ 1011,Rahul Chopra,Thirty, FEMALE,Hr ,Lead,78.0k,03/07/2024,Mumbai,,2,83,29/10,15,0,,40,8/10
+E1012 ,SUNITA SINGH,,F,IT,associate,80889,21-Sep-10,Pune,,14,72,48,15,Terminated,Suresh,49,high
+E1013 , Rohit Chopra,27,,markting,Executive,112.6k,02/21/2017,,1/10,13,100,,11,1, ROHIT,47,8/10
+E914,Ramesh Saxena,,M,Fin,associate,unknown,2022-11-14,Mumbai,N/A,5,60,44,13,Yes, ROHIT,3,2
+E1015,Sunita Mehta,Thirty,F,Hr ,Intern,~120518,2021-08-14,Pune,5,9,64,24,7 pts,Terminated,Priya,50,8/10
+,ROHIT KAPOOR,,unknown,markting,Executive,Rs 77080,08/03/2022,,,10,45,49,10 pts,yes,priya ,13,high
+ 1017,AMIT KAPOOR,Thirty,unknown,OPS,Lead,78743,20-Dec-12,Chennai,,15,87,49,3,Resigned,Rohit,12,high
+E1018,Sonia Mehta,,Male,Sales,associate,Rs 58290,2019-01-04,Delhi,N/A,15,43,27,2,yes,Rohit,36,4
+ 1019,sonu Saxena,,male ,Fin, executive,60026,2024-08-06,Chennai,4,5,50,,9,0,Priya,43,
+E1020 ,Neha Bhat,21,male ,Fin,Intern,"₹77,560",27-Oct-14,delhi ,N/A,14%,96,36/10,21,Yes,Suresh,36/10,8/10
+,Ankita Shah,, FEMALE,OPS,Manager,Rs 132424,23-Jul-23,delhi ,7,14 pts,60,,17,Resigned,Manager X,39,
+,Isha Singh,Thirty,F,markting,Executive,60730,02/02/2010,Mumbai,2/10,15,85,50,12,yes,Priya,17,high
+E1023,Sneha Chopra,Thirty,unknown,Operations,manager,unknown,21/03/2015,Chennai,7/10,13,85,,16,No,priya ,6,8/10
+E924,Rohit Khandelwal,,,Operations,Lead,134344,04/07/2013,Chennai,2,20,50,22,11,Resigned,,36,3
+ 1025,Ritu Joshi,Thirty,male ,Hr ,Intern,107404,06/08/2018,Pune,,18,84,32,3, ,Suresh,44,high
+E1026,Rahul Verma,Thirty, FEMALE,Finance,Senior Analyst,101 381,02/03/2024,Mumbai,N/A,1,45,46,17,Resigned,Suresh,10,high
+,MOHAN GUPTA,Thirty, FEMALE,HR, executive,21 824,03/14/2018,delhi ,,3,79,59,14,1,Priya,8%,8/10
+E1028,Neha Rao,,M,sales,Manager,,2014-04-10, mumbai,N/A,7,83,42 pts,6,0,Priya,42,1
+,Sunita Singh,55,F,Operations,Executive,123369,31/03/2011,delhi ,3,4/10,77,23,16%,0,priya ,49,
+ 1030,Priya Kapoor___,Thirty,Female,Hr ,Lead,"₹29,632",2011-04-30,Pune,,12,69,27,24,1,priya ,14,8/10
+E1031,Aanya Saxena,48,Female,HR,Manager,"₹76,606",10/05/2016,Delhi,,3,100,23,11/10,yes,priya ,14,high
+E1032,sonu Nair,Thirty,Male,Fin,Intern,Rs 23794,12/06/2014, mumbai,3/10,18,,53,10,N,Priya,3,1
+,Maya Saxena,,,HR,Intern,,2014-12-01,Chennai,7,0,89 pts,,23,Resigned,Neha,32,6
+E1034 ,Ritu Verma  ,,,Marketing,Manager,73088,Nov 08 2011,,N/A,3,73 pts,41,2,Resigned,Neha,49,
+E1035,suresh nair,Thirty,unknown,Hr ,Lead,~109277,01/25/2022,Pune,N/A,14,77%,,11,No, ROHIT,24,8/10
+ 1036, vikas Mehta,,Female,it,Executive,25.1k,Nov 08 2017,Pune,,12,78 pts,24,12,Terminated,Rohit,21/10,high
+E1037 ,SURESH SRIVASTAVA,39,Female,OPS, executive,~86648,,delhi ,,15,49%,52,16 pts, ,Rohit,38,
+E1038 ,Priya Saxena,46,F,Marketing,Lead,138.5k,16-Oct-20,,N/A,5,48,50,3,No,Suresh,5,
+E1039 ,Rohit Rao,Thirty, FEMALE,Finance, executive,~30696,2015-02-23, mumbai,3,9,93,48,0,Resigned, ROHIT,27 pts,high
+E1040,Priya Rao,Thirty,Male,OPS,associate,95.4k,14-Jul-14,Delhi,6/10,18,45,53,16,0,Amit,40,high
+E1041,Karan Rao,39,Male,Operations,associate,Rs 64374,10-May-23,,3,14/10,42,40,,Terminated,Neha,18,high
+E1042,Mohan Bose,39,unknown,markting,Lead,68 148,22-Apr-24,Mumbai,10/10,17,60,58,,N,,17,1
+E1043 ,Karan Kapoor,Thirty,unknown,Sales,Executive,28.8k,03/19/2016,Hyderabad,1/10,14,88/10,53,8,yes,priya ,33,high
+E1044 ,Vikram Srivastava,,M,markting,Lead,~31506,2023-11-30,delhi ,3/10,11,52,51 pts,14, ,Priya,4,8/10
+E1045 ,sonia shah,,M,it,Executive,Rs 120634,2009-03-29,Pune,3/10,10,100,25,17, , ROHIT,5,
+E946,rahul Srivastava,19,Male,OPS,Intern,105.3k,May 05 2017,Delhi,,20,91,49%,5,no,Manager X,38 pts,8/10
+E947,sonu Bose,46,M,HR,Analyst,unknown,18/05/2017,Pune,,6,72,51,16, ,Manager X,3,8/10
+,Isha Sharma,,Male,sales,Analyst,94.7k,2014-06-22,Hyderabad,,19,46,41,4,Resigned,Amit,2 pts,8/10
+E949,kriti kapoor,Thirty,male ,Fin,manager,,21-Sep-14,Delhi,6,13,86,58,25,no,Amit,37,8/10
+E950, sonia rao,,M,sales,Senior Analyst,,2024-07-02,Pune,,15,51,54,23,Y,priya ,12,
+,sonu Chopra,Thirty,male ,Marketing,Manager,unknown,11/06/2016,Pune,,2,56,54,8/10,no,Amit,42,4
+E1052, Arjun Das,53,,OPS,Lead,82.6k,06/11/2014,delhi ,2/10,17,42,,12,Y,Amit,0,high
+E1053 ,vikas Bhat,35,Female,Operations,Executive,,12/02/2024,Delhi,5/10,5,65,25,4,Yes,Suresh,24,high
+ 1054, priya  shah,,male ,IT, executive,109 925,04/29/2022, mumbai,4/10,4,78,50,6, ,Priya,33,2
+E1055,Sonia Bhat,,Female,OPS,Senior Analyst,,12-Jun-19,Delhi,N/A,14,83,,,N,Priya,34,8/10
+E1056,sneha saxena,,,Hr , executive,"₹69,236",Nov 04 2022,Pune,2/10,17,54,39,13,no,priya ,22,2
+E1057 ,KRITI SHARMA,21,Male,sales,Lead,50.7k,07/04/2009,delhi ,,18,60,53,1,yes,,35,high
+E1058 ,Arjun Singh,,M,Hr ,Analyst,unknown,Jul 01 2020,Pune,,6,68,32,,No,Neha,48,8/10
+E959,Ritu Das,Thirty,unknown,Finance,Senior Analyst,72.0k,07-May-14,,,8,69,40,13/10,yes,Amit,16,high
+E960,Vikram Das,,unknown,markting,Lead,Rs 80401,25/11/2015,Pune,8/10,17,73%,23,20,Yes,Neha,32,8/10
+E1061 ,Amit Sharma  ,36,,IT,Manager,"₹140,330",28/05/2013,delhi ,N/A,2,76,39,20,Yes,Priya,25,1
+E962,Rohit Khandelwal,Thirty,Male,Finance,Senior Analyst,,09/01/2009,Delhi,3,6,85,39,12,1,Rohit,50,high
+E1063,NEHA SAXENA,, FEMALE,Sales,Intern,,Dec 24 2015,Hyderabad,N/A,2,55,29,4,No,Priya,0,5
+E964,Rohit Patel,,Female,Fin,manager,unknown,,Hyderabad,2/10,18,50 pts,37,13,No,Manager X,16,
+E1065 ,Neha Singh,, FEMALE,sales,Executive,~59378,05/08/2023,,N/A,10,71,40,12,no, ROHIT,11,
+E1066 ,MOHAN CHOPRA,49,male ,Finance,Intern,Rs 106332,2016-06-15,,N/A,17,,43,19,no,Manager X,,high
+E1067 ,neha sharma,54,unknown,Operations, executive,Rs 80694,20-Jul-08,Mumbai,5,3,62,33,3,N,Priya,19%,high
+E1068,rahul Patel,Thirty,,Hr ,Senior Analyst,unknown,06-Mar-12,Hyderabad,10/10,14,85,24,17,0,Priya,16,8/10
+ 1069,zara shah,Thirty,Female,OPS,Executive,"₹61,049",16/08/2010, mumbai,N/A,13,67,31,4, ,Amit,22,8/10
+ 1070,Dev Khandelwal,28,Male,Finance,Intern,24 285,22/06/2014,,10,18 pts,,48,3,no,Suresh,2,8/10
+E1071,sonu Rao,Thirty,,IT,Executive,122.9k,May 01 2009, mumbai,5/10,10,76,26,1,yes,Rohit,15 pts,8/10
+E1072 , Suresh Shah,,male ,markting,manager,,2008-01-21,,N/A,6,71,41,15,Yes,Amit,6,1
+E973,maya agarwal,Thirty,male ,IT,Intern,~32234,04/05/2016,Delhi,5/10,13,40,57,0 pts,No,,44%,8/10
+E1074,priya  gupta,Thirty,M,HR,associate,93831,06-Sep-11, mumbai,N/A,19,45,27,13,Y,Priya,15,high
+E1075,Ritu Chopra,59,F,Hr , executive,34.8k,2021-04-27,Delhi,6/10,12,63,50,,no,Amit,3,8/10
+E1076 ,amit  joshi,37,F,IT,associate,unknown,2022-07-29,delhi ,7,7,47,39,5/10,Yes,Rohit,31,
+,Suresh Nair,,Female,Marketing,Manager,,30-Mar-09,Pune,,3,47,,1,yes,Rohit,2,
+,Sunita Saxena,Thirty,Male,IT,Senior Analyst,125426,18-Jul-09,delhi ,5,17,58,59,15,Resigned,Neha,9,
+ 1079,KARAN SHARMA,37,F,it,Senior Analyst,,03/12/2011,Mumbai,N/A,11,77/10,60,18/10,no,Suresh,16,high
+,Maya Nair,24,Female,IT,Lead,~81086,01/08/2020,Chennai,N/A,8,91,58 pts,4/10,N,,32 pts,
+E1081,Zara Agarwal !!,26,Male,Sales,Senior Analyst,37.1k,2016-05-07,delhi ,2,6,48 pts,27,1,1,priya ,1,
+E982,Ramesh Nair,,unknown,sales,associate,82787,03/08/2016,Hyderabad,9/10,20,41,42,11,1,Suresh,11/10,high
+E1083,Mohan Khandelwal,24,F,Marketing,associate,126992,Dec 02 2012,Hyderabad,3/10,7,84,42,18,0, ROHIT,,
+ 1084,SUNITA SHARMA,,M,Operations,Analyst,Rs 22872,2011-03-06, mumbai,N/A,18 pts,60/10,47,20,Resigned,Manager X,14,high
+,Suresh Patel,54,M,Fin,manager,140.7k,02-May-10,Pune,2/10,11,96,60,0,No,Manager X,16,8/10
+E1086 ,Priya  Saxena,,Female,Hr ,Senior Analyst,,09/30/2008,Delhi,6,2,50,25,15,Terminated,Rohit,38,high
+E987,Vikram Saxena,,F,HR,Analyst,,2016-02-03,Hyderabad,N/A,6/10,50,50,12,Y,Priya,41,high
+E988,Maya Verma,21,Female,HR,manager,unknown,24/03/2021,Delhi,N/A,17,76,25,1, ,Rohit,7,
+E989,Suresh Verma,58,male ,Operations,Manager,unknown,05/19/2020,delhi ,9,19,47,57,3,No,Suresh,34,8/10
+E1090 ,Rahul Srivastava,43,,Operations,Senior Analyst,,2016-05-09, mumbai,,15,95,48,23,no,priya ,13,high
+E1091,dev patel,Thirty,Male,IT,Senior Analyst,134.7k,2013-08-05,,6/10,8,65,21,14, , ROHIT,22,5
+,amit joshi,Thirty,F,OPS,Senior Analyst,unknown,2023-04-20,,3,7,59,37,11,Y, ROHIT,39,high
+ 1093, vikas Srivastava,Thirty, FEMALE,Marketing,Intern,105 998,08/08/2019,Delhi,,4,58,44,18,no, ROHIT,40,high
+E994,SONIA BHAT,53, FEMALE,OPS,Manager,~49131,20-Nov-14, mumbai,,14,95,59/10,16,Resigned,Suresh,26/10,
+,Arjun Shah,29,unknown,Operations,Executive,61079,,delhi ,3/10,15,48,45,0/10,N,Amit,20,1
+E996,Sunita Bose,22,male ,Marketing,Lead,~115398,28/05/2023, mumbai,6/10,5,65/10,,16,Terminated,Amit,24,9
+ 1097,PRIYA GUPTA,42,male ,Hr ,Executive,46934,2022-11-03,delhi ,10/10,13,86,26,24,no,Manager X,45,8/10
+E998,AMIT  KHANDELWAL,Thirty,unknown,IT,Manager,"₹122,174",04/09/2010,Chennai,,14/10,95 pts,43,23%,Yes,Rohit,42,high
+E1099,karan das,Thirty,unknown,sales,Executive,Rs 34818,25/04/2009,Mumbai,N/A,18,64,28,13,Terminated,Manager X,0,
+,Dev Kapoor,,,IT,associate,136924,,Pune,N/A,5,60,23,12,0,priya ,36,high
+E1101, kavita sharma,Thirty,male ,it,associate,,2016-02-24,Chennai,N/A,11,,42,9,No,Amit,10,7
+,kriti mehta,Thirty, FEMALE,HR, executive,"₹26,094",07-Feb-18,Pune,8,17,70,31,4 pts,Resigned,,26,high
+E1103 ,Aanya Chopra,, FEMALE,markting,associate,102.9k,12/31/2021, mumbai,,3,77,46,17,Yes, ROHIT,6/10,1
+E1004, Ramesh Patel,36,Male,Operations,Lead,33.4k,02-Aug-20,Chennai,9,12,83,20,24,no,Manager X,48,
+,MAYA PATEL,,Male,sales,Intern,92 954,02/05/2021,Delhi,8/10,1,43,39,11 pts,Resigned,Neha,11,8/10
+ 1106,isha joshi,,F,Fin,associate,82240,05-Oct-15,Chennai,10/10,1,98,36,16,Resigned,priya ,31/10,6
+E1107,Ankita Bhat,Thirty,,HR,Senior Analyst,unknown,13/08/2009,Delhi,8,2/10,90,34,14,Yes,,43%,10
+ 1108,Priya Kumar,56,male ,Hr , executive,71788,19/12/2019,Pune,,20 pts,100/10,27,17,no,Manager X,13,
+E1009,Ankita Rao,54,unknown,OPS,associate,29 587,2013-08-15,Chennai,,11/10,46,32,19,yes,Manager X,20,
+E1010,amit  Saxena,,unknown,Operations,Intern,"₹83,828",2021-08-09,delhi ,9/10,8,86%,52,18,Yes, ROHIT,16,
+,Zara Rao,Thirty,Female,sales,manager,85820,09/10/2021,Pune,3/10,18,49,42,7 pts,no,Amit,42,8/10
+E1112 ,SAKSHI AGARWAL,Thirty,male ,markting,Intern,Rs 95842,06/27/2016,Mumbai,N/A,7,95,58/10,14,Terminated,Suresh,13,10
+E1013,Arjun Das,Thirty,,Sales,Senior Analyst,Rs 25655,12/08/2011,Delhi,10,5,65,21,9, ,priya ,30,
+ 1114,Sonia Patel,Thirty,Female,Finance, executive,Rs 70523,Jul 15 2012,Hyderabad,3,5,42,27/10,,Terminated,,33,8/10
+E1015,Mohan Khandelwal,54,,IT,Intern,82.5k,11/17/2009,Hyderabad,5,0,40,40,13,Resigned,,36,
+E1116 ,Isha Bhat,Thirty, FEMALE,markting, executive,Rs 116440,2022-10-14,Chennai,8,6,91,23,0,0,,5/10,6
+ 1117,Priya Joshi,56,M,OPS,Lead,77536,Sep 25 2022,delhi ,1/10,,55,25,11,no, ROHIT,0,high
+ 1118,Sakshi Shah,,,Fin,Analyst,Rs 54223,May 22 2010,Mumbai,,3,96,36,18,N,priya ,43,8/10
+E1119,Ramesh Kumar,, FEMALE,it,associate,21 274,31-Jan-10, mumbai,9/10,15,76,32,23,no,Neha,15,2
+E1120, rahul Khandelwal,, FEMALE,Hr ,Intern,Rs 84330,06/19/2019,Hyderabad,10/10,1,100,45,14,0,Manager X,44/10,7
+,Karan Srivastava,, FEMALE,IT,Lead,75.6k,05/07/2016,Hyderabad,8/10,18/10,92 pts,35,6/10,0,Amit,11,high
+E1122 ,Sneha Nair,21,male ,Hr ,Manager,~78963,Jan 30 2016,delhi ,N/A,3,78,54,11,0,Priya,24,
+,Arjun Srivastava ###,,male ,markting,Intern,unknown,12/23/2017,,3/10,0/10,82,25,3,Resigned,Amit,1,2
+,kriti singh,,M,IT,associate,Rs 129906,, mumbai,N/A,17,48,31,23,Resigned, ROHIT,19,4
+E1125 ,Sneha Bose ###,Thirty,Male,markting,Lead,,08/27/2017,Chennai,,6,65,44,2, ,Suresh,18,8/10
+E1026,ritu kumar,Thirty,unknown,Finance,manager,Rs 22542,,Delhi,,8,86%,29/10,10,0,Manager X,,
+E1127,ramesh joshi,42,Female,markting,Senior Analyst,,01/10/2008,,9/10,15,99,22,3,no,Manager X,3,
+E1128 ,aanya sharma,18,unknown,markting,Executive,"₹68,679",2019-03-19, mumbai,,20,46/10,40,24,no,Amit,44,5
+E1129 ,amit  Agarwal,, FEMALE,markting,Lead,Rs 56087,23-Jun-11,delhi ,,14,,43,23,no, ROHIT,43,high
+,arjun das ###,20,Female,Hr ,Senior Analyst,32943,18-Sep-16,delhi ,6/10,,98,25,11,1,Manager X,50,5
+E1131,sonia chopra,Thirty,,Finance,Senior Analyst,89.0k,Jan 05 2012,Hyderabad,,14,46,45,17,N,Manager X,35,8/10
+E1132 ,Sonia Das,,unknown,Hr , executive,20025,2021-05-12,Pune,,7,89,37,18,Yes,priya ,22,
+E1033,ramesh chopra,,M,Hr ,Manager,98 018,,Hyderabad,,11,99,34,0,Yes,Suresh,33/10,
+E1034, Priya Joshi,,,IT,Executive,"₹64,062",2024-09-18,Hyderabad,N/A,16,88/10,51,17,no,Neha,4,10
+E1135,rahul Saxena,,M,Operations,Lead,Rs 101681,27/03/2013, mumbai,3,1,49,20,,no, ROHIT,13,8/10
+ 1136,Priya  Singh,51,male ,IT,Analyst,57.2k,11/10/2021,Delhi,8,12,98,21,12,No,Manager X,31,
+ 1137,MAYA BHAT,,,markting,Executive,~22408,12/21/2015,Chennai,9,20,92,37,12,1, ROHIT,43,8/10
+E1038,Rahul Singh,26,M,Fin,associate,109.7k,Dec 06 2014,Pune,3/10,10%,51,21,13,Terminated,Suresh,9,3
+ 1139,Kriti Nair,,Female,markting,Lead,,21/05/2016,Hyderabad,8/10,,88,46,6,0,priya ,44,8/10
+E1140 ,sonu Verma,Thirty,Male,it,Manager,,13/12/2008,Hyderabad,N/A,16,52,39,5,Yes, ROHIT,9,2
+E1041,sonu Shah,46,M,Hr ,Senior Analyst,,08/04/2015,Mumbai,N/A,20,64,59,12/10,N,Rohit,10,8/10
+,Sneha Agarwal,Thirty,male ,Sales,Lead,,Feb 17 2008,,N/A,14,78 pts,59,6/10,Yes,Manager X,2%,high
+,sakshi kumar,Thirty,M,Hr ,manager,142090,09/17/2014, mumbai,N/A,17,48 pts,41,22, , ROHIT,5,8/10
+ 1144,Ritu Das,Thirty,unknown,it,Lead,Rs 84553,03/21/2013,Chennai,1,14,94,46,17,Terminated,Neha,44,high
+ 1145,Isha Das,Thirty,Male,IT,Senior Analyst,~63321,29-Sep-18,Delhi,8/10,20,97,46,16,N, ROHIT,34 pts,6
+E1046,Ramesh Sharma,,M,Fin,Manager,133 324,2015-01-20,delhi ,N/A,7,59,,6,Yes,priya ,32,high
+,Suresh Gupta,,,markting,associate,35182,Dec 26 2008,Mumbai,6,3,59 pts,60,6,0,Priya,17 pts,2
+ 1148,isha kapoor,Thirty,F,IT,Manager,~60812,19/02/2009,Delhi,8,12,65,57,14,no, ROHIT,5,
+E1149,sonia agarwal,48,F,IT,Intern,~139650,09/10/2023, mumbai,8,2,69,42,3,No,Manager X,35,8/10
+E1150 ,Rahul Saxena,,F,markting, executive,unknown,Sep 04 2015,Chennai,N/A,3,75,31,19,N,priya ,41,3
+E1051,rahul Singh,Thirty, FEMALE,Marketing,Intern,unknown,2015-09-21,Delhi,N/A,4,97,55,9, ,,40,8/10
+ 1152,Vikram Patel,44,male ,OPS,Executive,37600,08/05/2008,,7,4,69,47,13,N,Neha,,
+ 1153,Ramesh Saxena !!,41,unknown,markting,Manager,38 623,Oct 02 2009,Mumbai,4,20,79 pts,54,16,N,,22,
+E1154, amit  Srivastava,Thirty,M,Fin,Analyst,106 025,2022-01-01,delhi ,2/10,16 pts,56 pts,,3,yes,priya ,23,8/10
+E1055,Mohan Kapoor ###,,,sales,Senior Analyst,,02/10/2011, mumbai,1,1,59,54,12,1,Amit,18,6
+E1156,Sakshi Bhat,,male ,Marketing,Manager,unknown,22/02/2023,Chennai,6/10,10,93,26,11,no,Amit,1,
+ 1157,vikas Gupta,Thirty,M,HR,Executive,53 205,12-Sep-09,delhi ,,5,43,23,5,no,,11,8/10
+E1058, Kriti Gupta,Thirty,male ,Hr ,Analyst,,2022-05-12,Delhi,5/10,10,72,50,24,no,Amit,24,8
+ 1159,Isha Bose !!,39,unknown,Marketing,Senior Analyst,43149,26/10/2022,delhi ,,15,,21,15,Terminated,Suresh,31,8
+E1160,Aanya Verma,Thirty,unknown,OPS,associate,39.5k,29/10/2008,,1,7,51,26,18%,No,priya ,38,8/10
+,Mohan Joshi,31,M,Operations,Manager,35 826,23/04/2017, mumbai,N/A,,46,,15%,yes,Priya,45,8/10
+E1062,Vikram Singh,Thirty,Male,Fin,Executive,,12/22/2009, mumbai,1/10,6%,79,54,20,no,Priya,50,
+E1063,rahul verma,,Male,HR,Analyst,Rs 141223,26-Aug-08,Mumbai,N/A,18,87,27,23,no,Priya,30,
+E1064,Sakshi Srivastava,,male ,Finance,manager,36673,05/03/2009,Pune,N/A,13,96,60,18,No,,33,8/10
+E1165 ,Ramesh Sharma,55,M,Fin,Analyst,74758,,,N/A,16,84,35%,22,yes,Manager X,18,8/10
+,Ankita Agarwal___,Thirty,,IT,manager,,2008-01-12,Hyderabad,6,9,100,33,10,Terminated,Manager X,3 pts,8
+,Karan Patel,,F,it,Manager,,04/01/2021,Chennai,,16,44,52,22,Y,priya ,39,
+E1168 , Rohit Kumar,,Female,markting,Executive,Rs 85054,2019-09-05,delhi ,9/10,15,81/10,24/10,16,N,Manager X,31,8/10
+E1169 ,sneha shah,,male ,Sales,Executive,66 284,Sep 24 2011,Pune,5/10,5,82,27 pts,18 pts,N,Rohit,,high
+E1070,Karan Agarwal,,M,Hr ,manager,40454,Apr 01 2020, mumbai,,18,86,27,4,Yes,,39,high
+E1171,Kriti Mehta,19,unknown,OPS,Manager,unknown,Feb 16 2015,Delhi,7/10,13,58,48,23,1,priya ,18,8/10
+E1072,Sonia Shah,,Female,Fin, executive,31593,17-Feb-14,Pune,8/10,6,75,39,17,Yes,Rohit,16,8
+,Arjun Patel,,Female,Fin,manager,,13-Oct-13,Mumbai,6,8,60,42,13,Yes,Suresh,18,
+E1074,sonu Gupta,, FEMALE,HR,associate,~96027,15/04/2008,delhi ,N/A,10,53,32,22,Resigned, ROHIT,44,8
+E1175,Sonia Singh,Thirty, FEMALE,IT,Intern,"₹23,769",28/07/2023,Chennai,3/10,4,88,,3%,0,Priya,16 pts,1
+E1176,Sakshi Srivastava,23,male ,Fin,manager,Rs 66163,May 04 2024,Chennai,9,3,73,38,0,no, ROHIT,45,8/10
+E1177,Ankita Bose,38,unknown,HR,associate,,10/22/2023,Delhi,N/A,3,87,48,13,0,Manager X,11,8/10
+E1178 ,dev kumar,28, FEMALE,Finance,manager,unknown,11-Jul-17,delhi ,,20,82,51,14 pts,0,priya ,14,2
+E1179,Kavita Sharma,Thirty,Female,HR,associate,,07/12/2012,,,17,74%,47,14,0,Amit,2,
+E1180 ,Arjun Singh,Thirty,unknown,Hr ,associate,Rs 131981,10/11/2016,,,,42 pts,42,24,No,,22,
+E1081,Sunita Chopra  ,28, FEMALE,Sales,Lead,unknown,06/12/2017,Delhi,8,10,76,26,15,N,Rohit,39,8/10
+E1182,Sonia Bhat,Thirty,Female,markting,Manager,~97576,Sep 14 2020,,,2,91,40,19,Resigned,Rohit,1,8/10
+E1083,rahul Agarwal,Thirty,Male,it,Senior Analyst,,05/17/2011,Hyderabad,7,20,92,58,4,Y,priya ,31,
+E1084,ramesh singh,59,unknown,Sales,Analyst,"₹132,667",2014-09-07,Hyderabad,N/A,4,72,57,8, ,Priya,49,8/10
+E1085,Sakshi Saxena,,Male,Hr ,associate,"₹69,113",03-Jul-17,Chennai,,15,41,22,1,no,Suresh,35,6
+ 1186,Ritu Rao,,Female,Finance,Intern,Rs 47575,02/28/2022,Hyderabad,1,15,93,26,16, , ROHIT,47,
+E1187 ,mohan singh,25,F,it,Executive,unknown,01-Mar-15,,5/10,18,52 pts,31,18,Resigned,Neha,5,3
+E1188 ,Kriti Saxena,54,Male,markting,associate,,2019-01-31,Chennai,,9,67,38,5,Y,Suresh,15,8/10
+E1189,amit khandelwal,Thirty,,markting,Intern,"₹29,575",03/02/2009,Chennai,8,0,59,28,18,0,Manager X,29 pts,8/10
+E1090,Ramesh Gupta,Thirty, FEMALE,sales,Intern,138 330,Nov 30 2013, mumbai,,15,94,48/10,,Y,Rohit,45,8
+E1191 ,Karan Bhat,,Female,Finance,Intern,Rs 43678,Feb 12 2014,Chennai,1/10,13,71,21,3,No,Manager X,9,8/10
+,KRITI SHARMA,54,F,Sales,Intern,62358,Apr 09 2020,Hyderabad,,5,65/10,30,20,No,Suresh,31,
+,rahul Gupta,,,HR, executive,~126298,26-Sep-17,Mumbai,,14,85,60,14,0,Suresh,9,
+ 1194,Arjun Chopra,,,HR,Lead,106 619,2021-02-17,Delhi,8/10,,66,57,14,yes,Neha,11 pts,8/10
+ 1195,AMIT SHARMA,Thirty,unknown,Marketing,manager,unknown,18/12/2009,Pune,1,0,41,35,25,0,Rohit,30,8/10
+E1196 ,Kavita Sharma,43, FEMALE,Sales,Manager,unknown,Feb 12 2019,delhi ,N/A,15,99,51,0,No,Suresh,41,high
+E1197 ,amit  saxena,Thirty,F,Fin,manager,,31-Jul-14,Hyderabad,8/10,19,45,32,25,Y,Neha,13,high
+,rahul patel,,Female,Fin,Senior Analyst,35.8k,08/19/2015,Delhi,5/10,16,43,49,3,No, ROHIT,2,
+,Ankita Chopra,Thirty, FEMALE,Operations,Executive,36.1k,2017-04-28,Chennai,,16,85,35,13,1,,26,high
+E1200, Maya Singh,,,IT, executive,unknown,22/10/2022,Delhi,N/A,12,95,42 pts,16,1,priya ,41,8/10
+,Pooja Joshi  ,Thirty,male ,Finance,Manager,87 065,04/04/2022,Delhi,,7,67,23,,Terminated,Priya,28,high
+E1102,Mohan Shah,56, FEMALE,Marketing,Intern,Rs 107414,28/08/2019,Mumbai,9/10,11,67,23,6,Resigned,,37,8/10
+E1203 ,Maya Khandelwal,Thirty,unknown,IT,associate,"₹133,150",19-Mar-18,Delhi,,3,47,53,11,yes,Rohit,,high
+E1104,ankita khandelwal !!,,unknown,Operations, executive,Rs 82289,28-Apr-19,,,2,66,41,14,yes,Amit,36,5
+ 1205,Rohit Mehta,51,unknown,it,Analyst,Rs 35765,02/03/2014,Chennai,10,17,42,41,16,No,Priya,34,5
+E1106,SNEHA SAXENA,,,HR,manager,unknown,13-Oct-13,Mumbai,4/10,19,88,37,17,1,Neha,1,
+ 1207,vikas Singh ###,,M,Finance,associate,unknown,13-Jun-20,Delhi,,,99,36,11,Resigned,Suresh,2,high
+E1208,Zara Gupta,Thirty, FEMALE,OPS,manager,103 252,15-Nov-23,delhi ,,6,41,,0,0,,34%,9
+E1209 ,rahul Gupta,Thirty,Male,HR,Lead,68.6k,2012-12-19,delhi ,6,19,54,43,22,no,,7,
+ 1210,Vikram Shah,22,male ,Fin,Senior Analyst,135 474,2023-03-17,delhi ,9,13,43,46,14,Yes,Neha,3,high
+E1211,Zara Mehta,Thirty,,HR,Senior Analyst,Rs 45805,2009-05-29,Delhi,8,18,93,35,10,No,priya ,48,10
+E1212,Priya Verma,,Male,Marketing, executive,"₹28,623",2020-07-17,delhi ,7,19,78,49,19,Terminated,Amit,29,2
+E1213,Kriti Kumar,, FEMALE,sales,Lead,,2011-02-01,Delhi,N/A,16,59,29 pts,19,Yes, ROHIT,37,4
+E1214 , Karan Mehta,Thirty,unknown,markting,Lead,~98612,09/11/2020,delhi ,6/10,3,42,60,19,N,,13,high
+E1215,rohit bose,,Male,Sales,Senior Analyst,45 929,16/11/2013, mumbai,4/10,6 pts,98/10,44,10,no,Manager X,23,8/10
+E1216,Neha Singh,,,OPS,Senior Analyst,140719,04/03/2021,delhi ,6/10,1,48,51,15,yes, ROHIT,24,high
+E1217 ,dev agarwal,,male ,Fin, executive,103637,20-Jul-12,Chennai,,13,99,25%,9, ,Amit,29,8/10
+E1218 ,Arjun Bose,,Female,Operations,Manager,"₹58,603",2013-02-08,Mumbai,2,17,61,37,4,Resigned,Suresh,0,8/10
+E1219 ,SONIA SHAH,,F,Finance,Senior Analyst,82.2k,24-May-20,,,6,66,55/10,18,Yes,priya ,42,8/10
+E1220 , sonu Bhat,26, FEMALE,Fin, executive,unknown,2016-10-05,Hyderabad,4,10,97,55,19,No,,18,9
+E1221 ,Priya Bose,28,M,it, executive,"₹82,685",18/08/2012,Chennai,N/A,5,77,,4, ,Neha,33,8/10
+E1222 ,Rahul Verma,,M,sales,Senior Analyst,unknown,13/10/2022,Mumbai,1/10,5,58,33,24,No,Priya,32,
+,VIKRAM KAPOOR,, FEMALE,markting, executive,132.2k,03/28/2008,Mumbai,N/A,15,82,28,,No,Rohit,18,3
+E1224, rahul nair,52,unknown,markting,Analyst,"₹129,641",30-Nov-14,Delhi,10,12,63,21,10,No,Neha,6,
+E1225,arjun kapoor,Thirty,,sales,Manager,50.5k,03/04/2015,Delhi,7,12,82,43/10,13,No, ROHIT,50,high
+E1226,Kriti Das,,M,OPS,manager,,May 24 2008,,9/10,16,54%,39,7,N,priya ,18,
+ 1227, maya das,Thirty,male ,Sales,Senior Analyst,~131009,Aug 13 2012,Delhi,N/A,16,40,24,4,yes, ROHIT,50,8/10
+E1228 ,Sneha Patel,Thirty,unknown,OPS,Senior Analyst,,24-Jan-16,Hyderabad,N/A,13,88,50,13,Y, ROHIT,9,8/10
+,Maya Chopra ###,30,F,Sales,Analyst,~132938,29-Apr-17, mumbai,,20,96%,44,24,N, ROHIT,45,8/10
+E1230 ,PRIYA  RAO,Thirty,M,Marketing,Lead,Rs 143766,Jul 03 2021,Pune,1,20,85,53,5,Y, ROHIT,34,8/10
+E1231,Neha Shah,Thirty,male ,Sales,Executive,,,Mumbai,N/A,20,51,32,3,yes,Neha,3,high
+E1232 ,maya srivastava !!,35, FEMALE,Sales,Senior Analyst,,2010-04-05,Delhi,5,3,64,37,10,Terminated,Manager X,20,8/10
+ 1233,Priya Bose___,26,Female,it,Intern,144.7k,13-Nov-21,Hyderabad,,0,91,34,19,0,Priya,46,3
+E1134,Kavita Kumar,,Female,Hr ,associate,51.6k,2022-10-18,Mumbai,1/10,10,54,27,20,N,Neha,36,8/10
+E1235 ,vikas Bhat,36,Female,HR,manager,117.1k,Aug 09 2010, mumbai,N/A,18,77,47,21,Terminated,Neha,6,high
+E1136,Sonia Chopra,Thirty,Male,Fin,manager,"₹60,487",Nov 05 2023,,,12 pts,49,34,24,1,Suresh,42,8/10
+,Arjun Khandelwal,,F,markting,associate,"₹71,612",2021-01-06,delhi ,3/10,14,49,,23,yes,,27,1
+,Kavita Patel,45,,Finance,Analyst,35.6k,Oct 15 2014,Pune,N/A,20,68,25/10,0,0,Suresh,44,8/10
+E1239 ,vikas Saxena,52,,markting,Analyst,,Feb 11 2021,Mumbai,2/10,,68,28,2,Yes,Priya,7,
+E1240 ,RAHUL SHARMA,Thirty,unknown,IT,Lead,~111108,Nov 24 2015,Chennai,1/10,1,93,55,4,Resigned,Suresh,16,8/10
+E1241,Ramesh Saxena,Thirty,F,markting,manager,Rs 93877,06/11/2011,Hyderabad,1/10,2,83,60 pts,24,no,Suresh,0/10,7
+E1242,Ankita Kapoor,,male ,it,Intern,"₹99,621",10/30/2011,Hyderabad,N/A,15,83,28 pts,1,N,Neha,43,8/10
+,Mohan Agarwal,,Female,Marketing, executive,~121001,2022-03-27,Mumbai,2/10,18 pts,75,20,16,0, ROHIT,43,8/10
+E1244,Kriti Mehta,40,Male,Fin,Lead,Rs 146438,28/09/2019,Pune,6/10,16,71,27,17,Y,Suresh,30,8/10
+E1145,Sakshi Chopra,Thirty,unknown,Sales,manager,,2015-12-09,Delhi,N/A,11,71,29,0,no,priya ,25,high
+E1246,maya agarwal,30,F,Marketing,Analyst,unknown,2015-06-06,Pune,,3,91,45,12%,Yes,Rohit,,4
+,Arjun Srivastava,45,M,markting,associate,44.5k,07/31/2010,Chennai,N/A,3,51,60,4,no,Rohit,27/10,2
+E1248 ,Arjun Kapoor,48,,OPS,Analyst,"₹59,883",04/17/2014,Hyderabad,4,5%,82,50,13,N,Manager X,19%,
+,Karan Bose,35,,HR,Manager,"₹37,102",,Chennai,4,2,59,32,4,Y, ROHIT,22,8/10
+E1250,Kavita Saxena,Thirty,M,Marketing,Analyst,145279,24/07/2023,Hyderabad,8,5,75,,18,Resigned,priya ,32,
+,amit  Nair ###,58,male ,IT,Intern,134476,01/08/2013,Mumbai,,10 pts,86 pts,40,0,Y,Rohit,16,10
+E1252 ,vikas Nair,,male ,Finance, executive,,15-Apr-24, mumbai,3,15,95,,5,Terminated,Neha,4,8/10
+E1253 ,neha kapoor !!,19,Male,OPS,Analyst,37.3k,01/01/2014,Delhi,,2,76,39,1,Resigned,Priya,1,5
+ 1254,pooja saxena___,Thirty,male ,Finance, executive,"₹110,015",21/06/2010,Mumbai,5,19,99,58,10,yes,Suresh,39,high
+E1255 , rahul Bose,18,M,Operations,Executive,,2018-09-24,Mumbai,,4/10,51,51,13,yes,Neha,24,8/10
+ 1256,Isha Rao,Thirty,Female,Finance,manager,20.4k,05/20/2008,,3,11,89,29,13,Yes,Rohit,7,7
+E1257 , Karan Verma ###,41,Female,Finance,Manager,unknown,03-Feb-12,Pune,N/A,13,81,29%,19,Yes,,27,high
+ 1258,Dev Chopra,,M,markting,Senior Analyst,72481,Feb 13 2012,Mumbai,,20,50 pts,47,2,N,Amit,15,
+ 1259,amit chopra,Thirty,Male,Fin,Lead,25987,2014-12-03, mumbai,7/10,10,48,46,16, ,,30,
+E1160,rahul agarwal,Thirty,M,markting,Executive,~146309,12/10/2010,delhi ,N/A,1,64,58/10,18,Yes,Rohit,49,8/10
+E1261,maya das  ,22,unknown,Marketing,Lead,148 251,30/11/2017,Mumbai,10,11,94,48,10,Resigned,priya ,16,1
+E1162,amit  bhat,43,F,sales,Lead,"₹107,706",Jul 04 2018,,2/10,3,89,24,15,No,Suresh,29/10,
+E1163,aanya shah,,unknown,Finance,Analyst,47720,02-May-23,delhi ,5,4,45,46,8,1,Manager X,48,8/10
+E1264 ,Isha Patel,Thirty,F,HR,Executive,~62432,,,,3,,48,20,No,Amit,13,
+ 1265,Zara Mehta,, FEMALE,Sales,Intern,137 526,18-Oct-10,,,11,88,49,19,Y,,40,2
+E1266,Rohit Sharma,52,unknown,it,Analyst,107 518,01/10/2012,,9,6,62,46,,N,Neha,32,high
+E1267 ,rahul rao !!,Thirty, FEMALE,Operations,Executive,unknown,11/10/2016,Hyderabad,N/A,4,86,53,22,Terminated,,48,
+,vikram kumar,Thirty,Female,Fin, executive,Rs 23314,03/25/2022,Pune,,6,89,36,4, ,Priya,7,
+,ramesh patel,43,unknown,Sales, executive,,17/09/2009,Hyderabad,N/A,,51,22 pts,11,Resigned,Amit,10,
+ 1270,amit bhat,25,Male,Operations,Executive,"₹48,804",11/02/2010,delhi ,8,11,69,52,8,Y,,6,
+E1171,Priya  Khandelwal,Thirty,Female,Fin, executive,76.3k,2016-05-21,,,18,96,42,25,N,Neha,4,high
+E1272,Amit Das,38,Female,sales,Intern,98.9k,Apr 23 2010,delhi ,N/A,13,52,51 pts,13,yes,Manager X,37,5
+ 1273,Amit Agarwal,51, FEMALE,OPS,Analyst,,04/23/2017,delhi ,N/A,2,79 pts,49,3,No,Amit,14%,3
+,RITU SAXENA,52,Male,Marketing,Analyst,34523,09/06/2009, mumbai,,5,47/10,57,13,Resigned, ROHIT,15,high
+E1275 ,Sunita Kumar ###,Thirty,Female,HR,Lead,27.9k,,Chennai,7/10,15/10,92,40,14,No,Rohit,14,
+E1276 ,Vikram Kumar,59,M,Hr ,Manager,"₹117,652",03/05/2018,delhi ,N/A,11,45,45,1,Yes,,46,8/10
+E1177,Kriti Nair,59,Female,Finance,Manager,26964,2013-05-09,Mumbai,N/A,12,92,33,20,Yes,Priya,11,high
+E1178,Ankita Das,Thirty,unknown,sales,manager,Rs 22729,22/09/2009,Delhi,N/A,18/10,70%,56,7,yes,Priya,6,8/10
+,Isha Nair,Thirty, FEMALE,it,Lead,34 779,2024-05-01,Pune,4/10,11,87,33,12,Terminated, ROHIT,28,high
+,Pooja Das,Thirty, FEMALE,Fin,Manager,,10/13/2015,Mumbai,8/10,14,58,39,9%,no,Suresh,37,5
+E1281 ,karan sharma,Thirty,M,HR,Intern,38.7k,10/23/2009,Chennai,,7,67,36,5,N,Rohit,43,
+,Sneha Kumar,45,M,it,Lead,~110981,05/14/2023,,N/A,13,98,46/10,19, , ROHIT,23 pts,8/10
+E1183,Zara Sharma,23,male ,OPS,Manager,"₹63,710",06-Sep-20, mumbai,1,6,71/10,39,0,no,Priya,4%,9
+E1184, Vikram Gupta,,,Hr ,Executive,127.5k,04/05/2020,,N/A,4,92,52,15,No,priya ,23,8/10
+E1285 ,sonia saxena,,Male,OPS,Lead,~25587,30-Jun-18,delhi ,,16,62,52/10,11,0,Rohit,17,7
+E1286 ,Zara Khandelwal,Thirty,male ,IT,manager,~97182,2017-01-20,Delhi,3/10,3,83,35/10,23,1,Priya,3,8/10
+,Kriti Sharma,Thirty,F,Finance,Intern,,21/01/2013,Pune,9/10,2,82%,28,13,N,Rohit,43,8/10
+E1188,Sonia Mehta,53,Female,Hr , executive,unknown,2020-10-06,Pune,9,3,74,38,22,yes,Suresh,4,high
+E1289 ,Kriti Verma,Thirty,Male,Sales,manager,75 234,01/05/2009,Chennai,9,7,76,22,13,No, ROHIT,30,1
+E1290,Kavita Kapoor,32,Male,Sales,Senior Analyst,unknown,2024-07-20,,N/A,4,48%,59,6,no,Neha,5,9
+E1291,RITU RAO,, FEMALE,Fin,Senior Analyst,Rs 58327,2018-09-26,Mumbai,5/10,15,97,39,9,Y,Manager X,44,8/10
+ 1292,kavita nair,Thirty,F,HR,manager,Rs 115015,,Chennai,8,,57,25,15,1,priya ,2,7
+,Priya Bhat,,F,Sales,manager,unknown,2024-05-09,Mumbai,,17,76,44,7%,Y,Suresh,5,high
+ 1294,Zara Verma,56,Female,Marketing,manager,129 576,14-Dec-17,Delhi,N/A,1,94,57,19,0,Rohit,16,
+E1195,vikas patel !!,Thirty,unknown,Fin,manager,25.5k,01/10/2024,delhi ,1,19,72,35,21,Y,Rohit,1,8/10
+,Kavita Chopra ###,19,F,Operations,associate,~113817,Jun 30 2016,Delhi,3,2,76,55,3,Yes,priya ,42,
+ 1297,Sneha Rao,Thirty,Female,markting,Senior Analyst,unknown,Nov 23 2015,Mumbai,8/10,14,92,54,21,Y,Suresh,21,
+ 1298,Kavita Mehta !!,Thirty,unknown,markting,Manager,36567,15/07/2008,Mumbai,N/A,13,75,41,18,Yes,Priya,47,8/10
+E1299 ,Sneha Khandelwal,50,M,Sales,manager,,01/11/2017,delhi ,,15,97,47,24,no,,33,6
+,sneha patel,,Female,Finance,Intern,"₹38,481",30/05/2019,Delhi,1/10,0,63,56,4,No,Priya,28,
+,Priya  Gupta,,M,it,manager,,2019-07-03, mumbai,1,16,82,60,18,Terminated,Neha,16,8/10
+,SURESH MEHTA,31,,HR,Lead,93.1k,13-Nov-08,delhi ,7/10,20,51,38,20,0,Suresh,6,8/10
+E1303 ,Aanya Rao,,,markting,Executive,,Dec 21 2018,Hyderabad,,8,90,40,12,Y,Amit,17,high
+E1304 ,Arjun Rao,Thirty, FEMALE,IT,associate,22610,01/09/2010, mumbai,9,16,50,34,11,no,Amit,2,9
+ 1305, zara khandelwal ###,,,IT,Intern,"₹132,981",25-Apr-19,Delhi,9/10,3,52,40,9,Y,priya ,24,high
+E1306 ,Sneha Bhat,Thirty,Female,Hr ,Senior Analyst,95743,16-Mar-13, mumbai,8,20,80,30,18, ,priya ,33,4
+E1307 ,Ramesh Saxena,Thirty,,Sales,Intern,110.5k,Dec 17 2018,,,14,94,26,4,No,Rohit,12,8/10
+E1308 ,Ankita Kapoor,36,,Marketing,Intern,~88482,May 02 2016,Pune,5/10,19,78,41,4,0,Amit,20,2
+, AMIT  MEHTA,,M,HR,manager,103.4k,25/04/2008,delhi ,,11,56,32/10,3,Y,Priya,8,high
+ 1310,sonu Shah,48,M,Sales,Senior Analyst,149.6k,16/10/2021,Pune,3,10%,48,50,3,1,priya ,22,9
+ 1311,Sonia Mehta,Thirty,unknown,Hr ,Intern,"₹109,832",10/06/2017,Pune,N/A,11,75,32,23,N, ROHIT,12 pts,6
+,SAKSHI NAIR,,,Sales,Intern,55936,06-Sep-08,,N/A,20,42,29,4%,Yes,priya ,40,high
+E1213,vikas Srivastava,Thirty, FEMALE,it,Analyst,unknown,2022-12-22,Mumbai,9/10,8,42,52,0,No,Manager X,29,8/10
+E1314,NEHA KUMAR,19,Male,Finance,manager,"₹80,338",07/14/2013,Chennai,3,12,48,32,9,No,priya ,22,8/10
+E1215,Priya Shah,Thirty,male ,Finance,manager,111 705,09/22/2012,Chennai,8,3,70 pts,43,1,N,Amit,10,
+,Sneha Patel___,Thirty,,Hr ,Senior Analyst,~53105,28-Oct-18,delhi ,1,13,,52,19,no,Rohit,8,1
+, Mohan Singh,27,M,Marketing,Intern,Rs 30534,23-Jul-12,Mumbai,,0,70,33,14,No,,8,high
+,Sonia Saxena,55,F,Fin,Executive,120.6k,Aug 16 2015,Delhi,N/A,2,52 pts,47,20,Y,,,
+E1219,Zara Kapoor !!,43,M,Operations,Executive,unknown,04-Apr-08,Hyderabad,,13,78,52,10,No,Rohit,27,
+E1320,Aanya Shah,45,unknown,Marketing,Analyst,,Feb 14 2009, mumbai,,,57,21,1,Yes, ROHIT,47,9
+E1221,Priya  Singh,57,unknown,Sales,Manager,~62806,,Mumbai,7,10,67,36,2,No,Neha,36,
+E1322,Karan Shah,,Male,Fin, executive,Rs 139242,2014-02-11,Hyderabad,N/A,4,90,34,7 pts, ,priya ,37,8/10
+E1323 ,sakshi bhat,Thirty,unknown,Finance,associate,Rs 111452,25-Sep-13,Delhi,N/A,17,87,38,14/10, ,Manager X,36,high
+ 1324,Priya  Khandelwal,25,,Finance,Senior Analyst,34 500,27-Jul-11,Hyderabad,N/A,19,80 pts,52,12,0,Rohit,,8/10
+E1225,rahul Gupta,58,F,IT,associate,unknown,Apr 16 2015,Chennai,N/A,,78,55,5,no,Rohit,30,
+,Rohit Sharma,33,unknown,it,Manager,~125340,28/07/2011,,2,13,95,36,22,Resigned,Amit,28,8/10
+E1327,Karan Joshi,25,M,Marketing,Manager,Rs 114633,09/22/2022,Pune,8/10,8%,69,35,22,Y,Suresh,38/10,high
+E1328,Sunita Bose,Thirty,male ,Hr ,Lead,108 247,04/08/2023,Pune,N/A,,53,20,23,0,Rohit,22,high
+ 1329,Karan Joshi,,,Sales,Manager,64.9k,11/01/2013,delhi ,2/10,11,80,53,11,No,Manager X,32%,8/10
+ 1330,Dev Rao,33,unknown,IT,Analyst,148 368,18/01/2010,Mumbai,,1,88,54,25,No,priya ,5,
+ 1331,Kavita Chopra,Thirty,F,Fin,Lead,20 064,06/27/2021,,N/A,16,56,37,20,yes,priya ,0,8/10
+E1232,Ankita Kumar___,52,F,HR,Senior Analyst,47 946,Mar 06 2015,,5/10,18,52,30,16,1,Suresh,14,high
+E1233,Sneha Das,,,Sales, executive,unknown,20-Feb-11,delhi ,4/10,8,60,55,6,Y,Priya,4,8/10
+E1334,sonu Joshi,Thirty,,Sales,Manager,~27355,14-Apr-16,delhi ,8/10,2,66,57,2,Resigned,Suresh,35,
+E1335,Ritu Das,31, FEMALE,Hr ,Senior Analyst,~80398,03/14/2023,delhi ,1/10,3,,53 pts,0,Resigned,Manager X,50,6
+E1336,Rahul Kumar,Thirty,unknown,Fin,Senior Analyst,"₹118,554",08/31/2017,,,2,69,47,9,Yes,Amit,14,high
+ 1337,Maya Mehta,54,F,IT,Senior Analyst,Rs 60433,Dec 18 2019,Delhi,,2,54,30,,0,Priya,24/10,7
+E1338 ,maya joshi,Thirty,Female,IT,Senior Analyst,,01/14/2016,Hyderabad,4,16,,44,3,No,,41,8/10
+E1339 ,Amit Nair ###,18,M,IT,Lead,119914,09/14/2012, mumbai,7/10,13,49,31,25,Y,,40,high
+E1340,Mohan Sharma ###,Thirty,,Fin,associate,Rs 42248,27/10/2015,Mumbai,7,15,97,,15,yes,Manager X,42,8/10
+E1341 ,priya  shah,Thirty,Female,markting,Manager,unknown,2021-10-17,Chennai,5/10,9,82,37,13,Yes,,40/10,3
+E1242, vikas Verma,, FEMALE,Finance, executive,79.3k,Nov 22 2013,,,10,61,55,10,N,,41/10,
+E1343 ,sonia gupta,,Female,it,Executive,72.1k,07/04/2023,Delhi,6/10,18,91,53,21, ,Neha,48,8/10
+E1244,Ramesh Verma,,unknown,Operations,Executive,114 574,,delhi ,5/10,19,88,30,7,1,,37,
+,suresh joshi,46,male ,Operations,Analyst,"₹103,460",2019-10-04,,,3,49 pts,,8,1,Rohit,45,
+ 1346,Neha Kumar,,,sales,Analyst,"₹103,631",04/14/2014,delhi ,N/A,8,46,57,21,0, ROHIT,38,8/10
+E1347,Kriti Gupta,25, FEMALE,Fin, executive,unknown,11/22/2008,,8,12,89,,10,Yes,priya ,16,
+,Maya Verma,28, FEMALE,markting, executive,~118739,10-Nov-11,Mumbai,6/10,10,86,40,24,0,Manager X,21,
+,amit gupta,Thirty,M,sales,Manager,"₹46,033",30-May-21,delhi ,,12,46,38,10,Yes,Neha,35,8/10
+E1250,Sonia Rao,,F,Sales,Lead,,May 12 2020,Chennai,N/A,20,64,43,11,no,Manager X,34,high
+E1251,MOHAN BHAT,Thirty, FEMALE,HR,Senior Analyst,~114385,Jun 19 2022,Chennai,8,14,67/10,21,1,yes,Priya,43,high
+E1352,amit  Srivastava,Thirty,unknown,Marketing,associate,111 384,Oct 12 2020,Hyderabad,,0,88,24,23, ,Rohit,11,high
+E1353,Neha Joshi,48, FEMALE,IT,Manager,~60789,08/26/2017,,,12,81,,19%,Terminated,Manager X,6,9
+E1354,Aanya Joshi,22,F,OPS,Lead,43.8k,05/03/2010, mumbai,N/A,5,68%,54,3,Y,Priya,22,3
+E1355 ,vikram srivastava,Thirty,,Hr ,Manager,"₹107,648",14/03/2016,Chennai,N/A,1,98,57%,21, , ROHIT,33,high
+,Suresh Agarwal,42,unknown,Sales,Lead,~33673,03-Sep-21,delhi ,8,16,45,56,23%,Yes,Suresh,24,8/10
+ 1357, Dev Patel ###,29, FEMALE,HR,Senior Analyst,84.9k,2021-09-30,Delhi,7,9/10,82,31,11,yes,Rohit,38,high
+E1258,POOJA NAIR,,male ,Fin,Analyst,unknown,,,3,20/10,97,54,8,1,Suresh,34,5
+E1359,Zara Mehta,,unknown,HR,Manager,49968,2012-02-20,Mumbai,,14,89/10,,0,Y,Rohit,22,8/10
+E1360 ,Suresh Chopra,46,unknown,HR,Senior Analyst,98 860,Mar 20 2011, mumbai,1,,86,43%,21, ,Amit,24,4
+ 1361,isha kumar,,,Hr ,Senior Analyst,,28-Sep-15,,,7/10,64,43,9,1, ROHIT,14,
+E1362 ,Arjun Saxena,,,IT,associate,47.0k,Apr 13 2012,Chennai,N/A,17,63,29,14, ,,3,8/10
+ 1363,ARJUN PATEL,,M,OPS, executive,95.4k,05-Feb-15,Chennai,,19,,26,0,N,Priya,20,
+,Sonia Kumar,,M,Marketing,Intern,Rs 33303,30/05/2011,Hyderabad,N/A,5,84,35,4,Yes,Rohit,24,high
+E1365 ,rahul shah,, FEMALE,HR,manager,Rs 29029,24-Sep-14,Pune,,9,45,51,5,Resigned,Suresh,,
+E1366,vikas Rao,Thirty,unknown,OPS,Manager,63636,2021-12-31,Delhi,7/10,,83,43,25,yes,Manager X,46,high
+E1367,SAKSHI AGARWAL,50,Male,IT,Manager,"₹51,845",16/06/2009,Chennai,2,0,98,60,20,No,Priya,3,
+E1368, amit  kumar,, FEMALE,OPS,associate,,19-Nov-23,Pune,8,,51,54,3,yes,Manager X,48,high
+ 1369,Arjun Kapoor,Thirty,Male,OPS,Intern,Rs 56890,29-May-09, mumbai,N/A,2,68%,40,11,No,Suresh,46,high
+E1370 ,Sneha Khandelwal,Thirty, FEMALE,sales,Lead,,16-Jan-17,,3/10,,48,60 pts,0,yes,Rohit,37,8/10
+E1371 ,SURESH NAIR,,F,Finance,Lead,,02-Aug-11,Delhi,6,10,49,,9,Y,,39/10,high
+,Priya  Bose,22,unknown,Operations, executive,52.3k,09/06/2023, mumbai,,18,97 pts,60,22,no,priya ,,9
+E1373 ,SONU SINGH,35,unknown,sales,Senior Analyst,123 714,2016-02-28,,4,10,75 pts,40,17,no,Priya,18,high
+E1274,Mohan Joshi  ,36,Male,OPS, executive,~30316,24-Apr-11,Hyderabad,N/A,10 pts,69,49,10,N, ROHIT,30,7
+E1375 , vikas Das,,Male,it,Analyst,Rs 114735,10/07/2009,Pune,9/10,7 pts,62,24,16,yes, ROHIT,5,high
+E1276,Sunita Verma ###,20,F,IT,Executive,~85612,24-Mar-22,Delhi,N/A,0,75/10,57/10,18,No,Manager X,32,
+ 1377,Amit Srivastava,Thirty,male ,Operations,Senior Analyst,62 868,08/03/2022,,N/A,,91/10,32,9, ,Suresh,23,high
+E1278,Dev Sharma,Thirty,,markting,manager,unknown,15-Sep-11,,,7%,96%,59%,8,1,Rohit,6/10,8/10
+,ROHIT NAIR,37,male ,Hr ,Senior Analyst,35771,08/09/2018,Delhi,2/10,14,,56,4,1,Amit,2,
+E1380,Rahul Verma,48,male ,Sales,Intern,146.2k,2018-01-17,Delhi,N/A,7,58,49,11,Resigned, ROHIT,9,
+ 1381,Zara Bose,Thirty,,Operations, executive,31 330,06/19/2015,,9/10,1,80 pts,54,25,no,,5,9
+ 1382,neha shah,Thirty, FEMALE,Hr ,Manager,~62662,Nov 09 2016,Hyderabad,,13,54,32,16,No,Suresh,15,4
+E1283,amit sharma,22,male ,Hr ,Manager,~75301,Mar 27 2008,delhi ,,6,98,22,,0,,48,high
+E1384 ,amit joshi,52,Female,Finance,Manager,unknown,May 31 2013,,,17,53,28,0,Resigned,Rohit,29,9
+,Rahul Gupta,28,male ,Fin,manager,"₹75,932",21/09/2009,,8,12,97,39,21,0,Priya,6,10
+E1386 ,Kavita Bose,Thirty,Female,sales,Lead,24 395,30-Sep-23,Mumbai,,11,55,27%,18,Terminated, ROHIT,23,8/10
+E1387,Isha Verma,,Male,it,Analyst,34 778,03/13/2008,Pune,N/A,6,70,55,25/10,Resigned,Rohit,48%,
+E1288,vikas Saxena,,Male,Operations, executive,23.6k,19-May-16,,4/10,15,96,60,9, ,Amit,26%,3
+,Ramesh Joshi,Thirty, FEMALE,Marketing,Lead,,Jun 10 2023,Pune,8,15,79,37,19,N,Neha,36,high
+ 1390,rahul Saxena,57,male ,Finance,manager,~113404,May 18 2018,Pune,5/10,6,61,51,22,Resigned,Manager X,9,8/10
+ 1391,zara sharma,Thirty,male ,it, executive,46 108,04-Aug-17,Mumbai,N/A,10/10,47,23%,8 pts,yes,Priya,47,10
+E1392,Neha Das,Thirty,male ,it,manager,130.2k,Jun 01 2020, mumbai,N/A,,50 pts,51/10,13,yes,Rohit,,8/10
+ 1393,Ritu Srivastava,Thirty,unknown,Hr ,Executive,unknown,01-Nov-24,Delhi,5/10,15,61,59,6, ,,10,high
+E1394 ,Ramesh Rao,Thirty,F,OPS,Manager,79276,09/28/2015,Hyderabad,N/A,14,56,36,18,no,Amit,24,
+E1395,KRITI BHAT,36,,Marketing,Executive,unknown,2019-09-04,Chennai,2,18,95,55,5,no,Priya,4,3
+E1396 ,Isha Bose,,M,Marketing,associate,126601,10-Apr-09,Pune,N/A,4,78,37,22/10,yes,Amit,4,8/10
+ 1397,Mohan Khandelwal,, FEMALE,Fin, executive,118 517,21/02/2017,,1/10,2,59,44,10,no,,49,
+,zara rao,,unknown,Operations,Senior Analyst,Rs 80725,24/02/2009,Pune,,1,96,58,17,0,Priya,22,
+E1399,Neha Singh ###,41,unknown,sales,manager,,04/29/2015, mumbai,1,14,72%,29,21,Terminated,Suresh,9/10,8/10
+,zara rao,54,,IT, executive,91 703,2012-09-21,Mumbai,,15,98,51,25,N,priya ,16,high
+ 1401,Suresh Shah,32,,Hr ,Intern,63 011,30-Mar-24,Delhi,,3,94,35,3,1,,26,
+ 1402,Kavita Kumar___,,unknown,Sales,manager,~142892,14-Apr-13,,10/10,12,55,30,2%,Yes,Rohit,34,3
+E1403,kavita patel,Thirty,Female,Sales,Executive,137 031,Nov 15 2008,Mumbai,1,6,92,57,2,No,priya ,38,9
+E1404 ,KRITI RAO,, FEMALE,it,Intern,unknown,04/10/2013, mumbai,N/A,,43,26,23 pts,N,Neha,45,high
+E1305,Pooja Khandelwal,21,male ,sales,Executive,,11/30/2016,,N/A,10,,30,15,Yes,Rohit,15,
+E1306,Arjun Verma,,Male,HR,Lead,121.1k,Jun 16 2015,delhi ,7/10,13,42,55,14 pts,Yes,,37,8/10
+E1407 ,Sakshi Srivastava,,Male,Finance,Intern,71 748,,Chennai,N/A,7,44,,23,Y,Amit,31,high
+E1408,Ritu Rao,59,Male,OPS, executive,~30443,2018-10-06,Mumbai,5/10,9,97,43 pts,9,Terminated,Priya,4,
+E1409,sonu Nair,,Female,Hr ,Intern,"₹122,956",01/23/2010,Pune,,0,90,30/10,16,0,Manager X,1,7
+ 1410,sonu Joshi,Thirty,F,OPS,Lead,,05/30/2022,Chennai,N/A,6 pts,41,41,10,No, ROHIT,35,8/10
+ 1411,isha das,,,Marketing,Analyst,"₹132,545",25/09/2014,delhi ,,10,73,,9,yes, ROHIT,38,2
+,sonu Das,23,Male,Marketing,Intern,"₹130,292",Apr 23 2020,delhi ,9,,98,41,2%,No,priya ,2,9
+,Ankita Shah,Thirty,Female,OPS,Analyst,81.6k,03/11/2010,Chennai,,18,52,47,6,yes,,37,
+ 1414, Ritu Gupta,,F,markting,Intern,Rs 110610,May 16 2022,Mumbai,4,7,86,28,3,No,Amit,26/10,
+E1315,Priya  Gupta,,F,OPS,Executive,unknown,07/12/2022,,N/A,1,50%,49,3,Y,Rohit,27,9
+ 1416,Maya Bose,,male ,IT,Lead,,20/05/2008,,4/10,3,56,53,0%,no,Suresh,16,
+E1417 ,DEV SHARMA,Thirty, FEMALE,Sales,Lead,Rs 45351,14-Nov-14,delhi ,10/10,20,78,44,7,N,priya ,48,8/10
+ 1418,amit kumar,,,it,Manager,,13/12/2012,Chennai,6,8,47,48,7,Y, ROHIT,47,8/10
+,Isha Patel___,, FEMALE,HR,Manager,86.0k,2014-03-24,Hyderabad,N/A,,46,37,7,no,Neha,12,8/10
+E1320,kriti singh,Thirty,,IT,Manager,Rs 129264,03/03/2008, mumbai,9/10,13/10,53,26,5,Resigned, ROHIT,37,8/10
+E1321,Sonia Srivastava,,male ,Operations,Intern,99.5k,13/06/2008,Hyderabad,N/A,2,84%,34,3,Terminated,Rohit,3,
+E1322,Sakshi Verma,53, FEMALE,it,associate,32 260,23/04/2020,Pune,N/A,6/10,84,59,20,N,priya ,10,6
+E1423,sonu Sharma,19, FEMALE,IT,Manager,30.8k,15-Mar-10, mumbai,1,4,83 pts,38,4,0,Suresh,31,
+,Dev Srivastava,47,Male,Fin,Analyst,20 366,06/22/2016, mumbai,,16,76,29,,Y,Rohit,50,9
+E1425 ,Priya Saxena,,Male,Fin,associate,Rs 44217,2014-01-02,Mumbai,7,17,56,31,7,no, ROHIT,41 pts,
+E1426,Suresh Joshi,Thirty,male ,sales,Intern,40787,31/05/2017, mumbai,7/10,3,,44,12,N,Suresh,2,high
+ 1427, rahul Patel,,,Marketing, executive,123 821,Jul 04 2019,Delhi,,7,51,28,1,Y,Amit,18,high
+E1328,Sonia Kapoor,32,Female,HR,Manager,,2024-03-05,Delhi,4/10,18/10,71,,13,No, ROHIT,31,7
+E1429 , Dev Saxena,29,Male,Sales,Manager,unknown,Nov 13 2010,Delhi,,15,86,27,0,1,Manager X,39,1
+,Kriti Kumar,Thirty,male ,Finance,Senior Analyst,,Aug 04 2008,Pune,4/10,5,72/10,48,2%,Y,Rohit,33,high
+E1431,sonu Das,Thirty,Female,HR,Executive,75904,2012-04-29,Chennai,N/A,19%,64,40,5,N,Manager X,3,8/10
+ 1432,Neha Khandelwal,Thirty,F,it,Intern,58063,Oct 26 2014,Delhi,8/10,10,82,53%,6,No,Amit,6,1
+ 1433,KARAN SHAH,Thirty,unknown,Marketing,Executive,unknown,04-Nov-20,delhi ,N/A,2,74,60,10,Resigned,Suresh,36,
+E1334,Neha Patel,,Male,sales,Analyst,,2022-05-11,,N/A,5,100,58,19,Resigned,Rohit,42,5
+,Arjun Gupta,Thirty,M,sales,manager,Rs 91368,2013-12-19,Hyderabad,,13,53,47/10,24, ,Manager X,48/10,8/10
+ 1436,Suresh Rao,20,M,Hr ,Senior Analyst,20128,11-Jul-19,Hyderabad,7,3,72,32,0%,1, ROHIT,3,5
+,Priya Agarwal,,,OPS,Executive,~26592,04/11/2014,Delhi,N/A,19,85,45,4,Resigned,Priya,47,8/10
+E1438,Ankita Shah,Thirty,male ,HR,Senior Analyst,46.0k,31/12/2009, mumbai,3/10,11,69,20,5,yes,Amit,24,high
+E1339,Maya Khandelwal,46,male ,Marketing,Intern,97667,Oct 13 2011, mumbai,N/A,9,46,23,8,Resigned,Priya,9,
+E1340,Rohit Sharma,Thirty,M,HR,Senior Analyst,unknown,03/31/2020,,8/10,13,92,52,10, ,priya ,47,7
+E1441 ,Kavita Verma,27, FEMALE,Sales, executive,Rs 90860,01/11/2011,Chennai,6/10,2,82,54,21,No, ROHIT,41,
+,Rahul Joshi,Thirty,male ,Finance, executive,101 715,12/05/2008,Pune,1,19,93,58,9, ,Manager X,47,2
+,Karan Agarwal,Thirty,unknown,HR,manager,Rs 141064,14-Mar-20,,8/10,17,41,44,2,0,priya ,39,8/10
+ 1444,Kavita Singh,Thirty, FEMALE,OPS,associate,unknown,21/04/2023, mumbai,1,11,86,56%,5,N,Manager X,17,8/10
+ 1445,zara mehta,Thirty,M,OPS,associate,116 909,25/12/2012,Mumbai,7/10,8 pts,51,50,12,1,Neha,44,6
+E1346, ritu kapoor,,male ,sales,associate,62516,12/09/2018,delhi ,1/10,9,83,24,15,no, ROHIT,45,1
+,Vikram Joshi,38,Female,Finance,Executive,68.0k,Sep 03 2018,Mumbai,N/A,10 pts,100,26,2 pts,yes,priya ,24,8/10
+ 1448,Priya Srivastava,26, FEMALE,sales,Executive,Rs 136678,02-Jul-20,Hyderabad,N/A,14,95,41,21, ,,23,high
+E1349, Dev Singh,,Male,IT,Analyst,135669,,delhi ,4/10,2,96,27,2,0,Amit,33,
+E1450,Sneha Chopra,Thirty,unknown,IT,Lead,146.2k,17-Apr-22,delhi ,7,4,87,38,16,Resigned,Priya,47%,
+ 1451,Suresh Sharma !!,51,,Marketing,Lead,41.0k,05/22/2018,Delhi,N/A,12,69,42,23,Y,priya ,8,high
+E1352,Kriti Kumar,Thirty,F,markting,Manager,71445,28-Jan-12,Mumbai,8,14,90,56,0, ,Neha,47,8/10
+,rahul shah,, FEMALE,markting,Senior Analyst,123.5k,11/28/2014,Hyderabad,N/A,15,,41,25,No,Rohit,28,8/10
+E1454,ANKITA SHAH ###,,unknown,markting,Manager,,01/05/2015,Chennai,3,3 pts,65,23,1, ,priya ,33,high
+E1355,amit  Bose,21,F,Sales,Intern,148 187,2016-09-12, mumbai,2,11,53,25/10,20, ,Manager X,42 pts,8/10
+, vikas kapoor,,Female,Finance,Lead,"₹32,180",31/01/2009,Pune,4/10,3,69,28%,3,No,Rohit,11%,
+,rahul Kapoor,31,male ,Fin,Senior Analyst,unknown,2020-01-10,Pune,8,4,46%,55,4, ,Manager X,8,3
+ 1458,Vikram Bose,59,F,markting,manager,,07/03/2010,,,6,60,,2,Yes,Rohit,30,
+E1459 , SUNITA BHAT,,,Fin,Analyst,74.0k,Apr 24 2014,Mumbai,,5,81 pts,22,19,0,priya ,23,10
+,Maya Shah,29,male ,Hr ,Manager,37 938,2008-01-23,Delhi,9,16/10,41,46,12,0,Rohit,27,9
+,MAYA GUPTA,,Female,Finance,associate,unknown,2013-07-12,,4,1,73,32,,1,Rohit,22,8/10
+E1462 ,amit  Saxena,39,F,Fin, executive,,23-Oct-17,Hyderabad,,18/10,93,21 pts,12,N,Amit,48%,8/10
+ 1463,kavita agarwal  ,Thirty,Female,markting,Intern,95257,2022-12-22, mumbai,,,77,51,19,no,Priya,12,8/10
+E1464 ,Kriti Bhat,27,unknown,Marketing,Analyst,,26/07/2013,Pune,7/10,6,82,56,14,Y,Rohit,27,3
+E1365,Maya Verma,,Male,IT,Analyst,102 683,2020-03-28,Chennai,N/A,4,68,54,9,No, ROHIT,25,
+E1466,Maya Bose,,unknown,Sales,associate,42619,Oct 26 2013,Delhi,,15,51,25,24,yes, ROHIT,31,8/10
+ 1467,pooja kapoor,,Male,Marketing,Analyst,~97180,08/23/2010,Mumbai,10,11,75,38,17,1,Manager X,6,
+,vikas Verma,,,it,Senior Analyst,114 418,2017-08-17,delhi ,,4%,49,29,18,1,Suresh,,
+,Isha Joshi,,,Hr ,Executive,,12-Jul-09,Delhi,10,9%,77,35,19,no,,6,7
+, ankita rao,Thirty,Male,IT,manager,138 807,11/02/2019,delhi ,2,,52,56,15,No, ROHIT,8,10
+ 1471, Isha Sharma,,male ,sales,associate,"₹131,121",Apr 28 2015,Pune,,17,79,57,14, ,Suresh,44,high
+,mohan verma,Thirty,unknown,Operations,Senior Analyst,unknown,12/30/2008,Mumbai,2,13,93,55,10,Terminated,Rohit,6,6
+E1473 ,kavita sharma,,male ,IT,Analyst,unknown,04/22/2023,Hyderabad,N/A,1,50 pts,40,24,Yes,priya ,50,
+ 1474,mohan srivastava,,M,OPS,Executive,unknown,2014-06-27,Mumbai,,,99,31/10,9,0,,30,
+,Kriti Kumar,24, FEMALE,it,Intern,unknown,Feb 20 2008,Delhi,N/A,15,48,56,14,Y,priya ,8,
+E1476 ,Rohit Singh  ,,F,sales,manager,unknown,2019-12-09,,6/10,11,51,55,10,Y,Amit,2,high
+,vikas Agarwal,25,F,IT,Lead,,2021-12-03,,7/10,7,83,21,17,No,priya ,22,1
+ 1478,Mohan Joshi,30,,Fin,Senior Analyst,Rs 62598,02/22/2013,Chennai,5,20,85,52,13,Y,Suresh,42,7
+ 1479,Vikram Bhat,Thirty,Female,Sales,manager,"₹51,578",Mar 28 2018,delhi ,N/A,18,96,23,15,0,Priya,17,8/10
+E1380,Priya Kumar,34,male ,IT,Senior Analyst,129.0k,Aug 26 2011,Chennai,4,4,,30,5,Yes, ROHIT,13,2
+E1381,SUNITA PATEL,,Female,Sales,Analyst,,2010-09-23,Mumbai,,12,98,38,20,Yes,priya ,17,
+E1382,Aanya Chopra,24,Male,Finance,Analyst,unknown,01/29/2008,delhi ,N/A,14,97,44,0,N,Suresh,5,high
+E1483,Mohan Agarwal,,unknown,Sales,associate,100632,06/08/2020,Hyderabad,9/10,9,86,30,0,Resigned, ROHIT,33,8/10
+ 1484,rohit bose,Thirty,unknown,sales,Analyst,110.9k,13/12/2009,Hyderabad,8/10,12%,75,56,2,Resigned,Manager X,7,
+E1485 ,Sneha Joshi ###,Thirty,,IT, executive,Rs 54900,12-Jul-21, mumbai,9,14 pts,86,28 pts,21,Yes,Manager X,27,
+E1386,RITU BOSE,21,,Finance,manager,73 740,21/04/2018,Chennai,N/A,5,79,37%,15,Resigned,Rohit,10,4
+E1387,Arjun Kumar,41,unknown,HR,Analyst,~123062,2022-05-22,Mumbai,,0,96,25,23,no,priya ,3,1
+E1488 ,Rohit Saxena___,59,male ,it,manager,111 635,26/06/2022,,10/10,13,57,46,19,yes,priya ,12,
+E1489,Priya Nair,43,M,HR,Lead,136 968,05/02/2024,,9/10,10,73 pts,54,14,Y,Suresh,34,high
+E1390, Zara Chopra  ,,Male,sales,manager,~78849,02-Mar-16,Pune,10/10,0,61,22,23%,no,Priya,5,8/10
+E1491,kriti sharma,42,M,IT,Analyst,~73231,01/25/2015,Mumbai,3,4,90,23,24,No,Manager X,7,high
+ 1492, Ramesh Agarwal  ,49,unknown,markting,Senior Analyst,Rs 130693,2020-05-08, mumbai,10,7,43,38,, ,Priya,0,
+E1493 , Priya Kapoor,Thirty,Female,Finance,manager,Rs 135408,01/21/2016,Chennai,,4,44,51,20,Resigned,Amit,4,high
+E1494,sonu Rao,Thirty,F,Fin,Intern,~60207,2008-06-17,Hyderabad,N/A,,50,24,10,yes,Suresh,6,10
+E1395,rahul Shah,24,Male,markting,Analyst,94883,2017-06-17, mumbai,N/A,,96,45,19,Terminated,Manager X,29,8/10
+,RITU SHAH,,M,sales,Analyst,50.3k,2012-01-07,Pune,,16,69,28,3 pts,yes,Neha,,8/10
+E1397,Neha Srivastava,Thirty,unknown,markting,Analyst,~109967,2017-09-23,Mumbai,7/10,17,45,56,15,1, ROHIT,33%,
+E1498 ,ISHA SRIVASTAVA,Thirty,unknown,IT,associate,~56190,2014-12-22,Mumbai,3/10,15,75,28,7/10,Yes,Suresh,5,
+E1399,SAKSHI KAPOOR,Thirty,F,markting,Analyst,Rs 108228,2024-06-24,Pune,1,8,54,48,4,N,Neha,2,9
+E1500 ,Aanya Verma !!,56,unknown,Hr ,Lead,unknown,Feb 25 2010,Chennai,3,20,66,24,19/10, , ROHIT,13%,
+ 1501,sonia nair,30,,Hr ,Analyst,85678,06/30/2020,Hyderabad,7,12,49,43,9,Y,Amit,28,high
+ 1502,sonu Mehta,,M,Hr ,Senior Analyst,Rs 36970,2017-09-24,Mumbai,,6,98,55,4%,Resigned,priya ,38,8/10
+E1403,vikas Rao,Thirty,,Marketing,Senior Analyst,~46347,01/02/2011,,3,11,56,22,2,Terminated, ROHIT,31,high
+E1504 ,sonu Joshi,,male ,markting,manager,144.1k,19-May-13, mumbai,,12,89,24,4 pts,Y,Manager X,1,high
+ 1505,Sakshi Chopra,, FEMALE,Fin, executive,72 045,2012-01-28,Chennai,,4,77,44 pts,1,Terminated, ROHIT,37,8/10
+E1506,Sneha Das,44,unknown,Finance,Manager,145966,,Mumbai,,5%,45,25,10,Terminated,Suresh,47,8/10
+,ramesh khandelwal,Thirty,Male,markting,associate,~73860,24/04/2011,,8/10,18,66,27,1,N,Rohit,28,high
+ 1508,rahul verma,26,male ,IT,manager,80.7k,Aug 04 2008,delhi ,4,6,80,30,6,yes, ROHIT,49,
+ 1509,Priya  Khandelwal,Thirty,F,Finance,Executive,Rs 42148,05/12/2017,Chennai,10/10,0,84,34,7,N,Amit,30,8/10
+E1510,Dev Patel,28,,Sales,Manager,,2016-11-21, mumbai,4/10,2,90,36,12,Y,Rohit,9,
+E1411,ankita kapoor,,M,markting,Executive,~43414,15/06/2016, mumbai,4,12,90,35%,17,Terminated,priya ,17/10,8/10
+,Sunita Bhat,Thirty,Female,Finance, executive,unknown,05/30/2019,Hyderabad,N/A,11,,40,5,N,Priya,27,high
+,arjun nair___,Thirty, FEMALE,Hr ,associate,~85097,08-May-09,Delhi,,5,40,26%,4, ,Neha,48,8/10
+E1514 ,Isha Shah,31,M,sales,Lead,,02/07/2021,Pune,8,14,73,54,20,Terminated,Suresh,12%,high
+,Vikram Sharma,29,Female,IT,Analyst,"₹40,780",2015-11-23, mumbai,,9,,23,17,Resigned,,31,8/10
+,Pooja Kumar,, FEMALE,Sales,Analyst,73.3k,05/09/2023,,N/A,8,69,60,18,no,Amit,44,
+,karan gupta,37,Female,Operations,Intern,~140083,10/27/2015,Hyderabad,,10,100,39,25,1,Neha,48,high
+ 1518,Maya Chopra,Thirty,M,IT,Senior Analyst,~26257,Nov 17 2010,,,3,40,48/10,3,0,Manager X,19,high
+E1519 ,Karan Das,33,Male,Marketing,Intern,unknown,2016-07-22,Pune,10,0 pts,46%,33,12, ,,12,8
+ 1520,Arjun Kumar,Thirty,male ,Finance,Intern,~111195,2012-12-17,Mumbai,,1,51,28/10,6,Y,,,8/10
+ 1521,Arjun Kapoor,52,Male,it,manager,Rs 113160,17-Apr-14,Delhi,N/A,14,,33,7,N,Amit,10,8/10
+E1522 ,Aanya Patel,28,F,IT,associate,40.1k,,Delhi,N/A,18,96%,34,14%,Terminated,,50,8/10
+E1523 ,Suresh Khandelwal,21,male ,OPS,manager,47604,18/11/2011,delhi ,3/10,0,,54,25,Yes,Priya,29,high
+E1524,pooja bose,Thirty,unknown,markting,Manager,,01-Jul-23, mumbai,5,19,95,44,17,Terminated,priya ,40%,
+,Kriti Verma,,male ,it,Executive,144.1k,25/01/2022,,2/10,3%,43,52 pts,22, ,Amit,42,8/10
+E1526,RITU KHANDELWAL,,Female,Fin,Intern,~111022,2015-02-20,,3/10,4,87,,9%,1,Rohit,24,8/10
+E1427,SAKSHI MEHTA,,male ,Hr ,Analyst,,01/04/2021,Delhi,5,5 pts,79,42 pts,6,Y,Rohit,25,high
+E1528 ,sunita nair,,M,Sales, executive,unknown,16/11/2009,Pune,6/10,4,60,46,10, ,,14,8/10
+E1429, Sonia Srivastava,42, FEMALE,OPS,Intern,101723,05/12/2020,Mumbai,4,7,42/10,30%,5,yes,Priya,23,high
+ 1530,Suresh Saxena,18,Female,it,manager,54359,08/11/2014,Delhi,7/10,18,71,35,24,1,Suresh,25,8/10
+E1431,Vikram Chopra,27,Female,Finance,Executive,22 242,01/07/2009,Pune,5/10,3,72,27,4, ,Suresh,36,
+E1532,priya  bhat,Thirty,Male,Sales,Analyst,65.6k,02/04/2020,Chennai,7/10,3%,60,53,0,yes,,39,10
+E1533,Maya Joshi,33,M,it,Senior Analyst,unknown,27/07/2012,,,20,51,47,3%,no,Rohit,42,
+E1534,rahul Bhat,Thirty,Female,it,Lead,62646,25-Oct-18,Hyderabad,N/A,20,50%,37,4,1,Priya,29,8/10
+ 1535,Ritu Bhat,Thirty,Male,markting,Executive,unknown,11-Aug-23,Hyderabad,,18,68,57,10,Terminated,,40,
+ 1536,ritu srivastava,,male ,HR,Lead,unknown,2020-08-12,,,17,76,52,16,0,Neha,18,
+E1537 ,Priya  Shah,Thirty,Male,Marketing,Intern,61423,Sep 27 2011,Hyderabad,6/10,3,50,22,,Resigned,Rohit,17,9
+E1438,Amit Bhat,,unknown,Marketing,associate,92.2k,11-Jul-24,delhi ,,13,49,,6 pts,1,,6,high
+E1439,AMIT BOSE,Thirty,male ,sales,Lead,94643,2018-10-05,Mumbai,8/10,13,41/10,47,1,Y,Suresh,8,8/10
+,rahul Das,41,male ,Sales, executive,Rs 38581,Sep 20 2015,Hyderabad,,13,94,41,20,Yes,Suresh,31,high
+,Karan Srivastava,Thirty,F,Operations,Analyst,"₹84,107",06/12/2014, mumbai,2/10,19/10,65/10,25,22,Terminated,Rohit,40,high
+ 1542,vikas Bhat,Thirty, FEMALE,IT,Executive,96 605,07/10/2015, mumbai,2,16,45,23,11,0,priya ,19,
+,sonu Singh,36,unknown,HR,manager,96 097,22-Oct-20,Chennai,5/10,1,74/10,27,25/10,no, ROHIT,38,8/10
+ 1544,Isha Patel,,F,Sales,Intern,unknown,2023-05-07, mumbai,N/A,9,53,50,1%,N,,43,8/10
+E1545,Priya  Khandelwal,55,male ,Finance,Senior Analyst,unknown,Jul 23 2021,delhi ,,10%,84%,54,7,no,Manager X,10%,8/10
+ 1546,sneha chopra,,unknown,Fin,manager,Rs 77414,26-Apr-16, mumbai,6/10,16,43,57,21,No,Rohit,19,8/10
+E1547,Maya Sharma,,Female,Marketing,Senior Analyst,,Aug 02 2011,Hyderabad,9,5,53,47,2,0, ROHIT,5,10
+E1548,Priya  Srivastava,28,unknown,Hr ,Analyst,~68549,15-Jul-17,Chennai,4,20,,,21,1,Amit,47,4
+E1549,sunita bhat,,Female,Finance, executive,25539,May 11 2015,Mumbai,9,9,59,45 pts,22,no,,48,
+,Dev Srivastava,Thirty,Male,OPS,manager,~91375,2017-08-25, mumbai,8/10,2,92,56,3 pts,no,,43,
+E1551 ,Kavita Patel,,,Sales,manager,139.8k,2019-09-09,Hyderabad,5,13%,79,40,17,Y,,16 pts,2
+E1452, rahul Bhat,,,Finance, executive,"₹37,605",10/24/2013,,9/10,18,41,22,22, ,Amit,36,8/10
+,Ritu Das,Thirty,unknown,IT,Lead,,2012-05-29,Hyderabad,9,3,92,22,18,No, ROHIT,31,
+E1454, Vikram Joshi  ,Thirty,Male,Fin,Manager,~143480,14-Apr-22,Delhi,9/10,12 pts,,36/10,7,Terminated,Manager X,,5
+E1555,Priya Khandelwal,, FEMALE,Finance,associate,"₹104,311",Oct 29 2018,delhi ,3/10,8,77,29,18,N,Priya,31,high
+E1556,RAMESH MEHTA,20,male ,sales,associate,"₹76,573",2012-10-28,,N/A,14,99,22,7,yes,Priya,36,9
+E1557,Aanya Agarwal___,Thirty,Male,Sales,Lead,,10-Oct-08,Pune,3,6,42,24,5 pts,N,Suresh,47,8
+ 1558, Ankita Bhat,,F,sales,Analyst,Rs 148876,10/06/2014,Pune,6/10,,61,37,23,Yes,Suresh,19,
+E1559 ,Kriti Sharma,24,M,Hr , executive,,Sep 24 2014,Delhi,,11,64%,26,17,yes,,34,8/10
+,Kavita Bhat,26,unknown,sales,Analyst,138994,01/14/2014,,1/10,14,45,22,18,Y,Amit,3,
+E1561 ,Kriti Singh,Thirty,,Marketing,Lead,143803,18/08/2010,Hyderabad,N/A,5%,50/10,32,23%,N,Manager X,0,1
+E1562,Amit Bhat,,F,Fin,Manager,100240,,Mumbai,2,,94,60,21, , ROHIT,49,10
+E1563 ,Amit Bhat,Thirty,,Hr ,Intern,70.9k,,Delhi,,7,46,48%,16,Terminated, ROHIT,41,
+ 1564,MOHAN CHOPRA,60,Female,Operations,Senior Analyst,62.5k,2017-03-21,,,9,95,23/10,8,yes, ROHIT,5,
+ 1565,Maya Srivastava___,,Female,Hr ,Intern,~110285,27/06/2018, mumbai,,5,69 pts,25,24,N,Priya,35,
+,karan shah,20,unknown,Fin,Executive,48713,2017-02-27,Delhi,3/10,16%,41/10,32,23,No,Manager X,5 pts,high
+E1567,Kavita Saxena,,,markting,Analyst,147 224,28-Mar-11,Hyderabad,N/A,0%,61,60,9,no,Manager X,35,
+E1468,Aanya Gupta,,Male,it, executive,unknown,09/08/2016,Hyderabad,,2,68,54,8,0,Priya,42,high
+E1569,Priya Saxena,,M,IT,Senior Analyst,61 052,2014-11-24,delhi ,7/10,3,80,42,25,Terminated,Suresh,18,2
+ 1570,KAVITA MEHTA,,F,Marketing,Senior Analyst,64 218,11/04/2019,Mumbai,,18,65,21,3,yes,Manager X,19,
+E1471,ritu sharma,,Male,Finance,Lead,"₹38,648",May 25 2022,Hyderabad,1/10,5/10,46,57,1 pts,Yes,Amit,13,
+E1572,sonu Khandelwal,44,Female,OPS, executive,Rs 135881,Dec 16 2015,Delhi,9,18,80,43,2,no,Manager X,33,
+ 1573,DEV AGARWAL,Thirty,F,Hr ,Manager,unknown,Aug 13 2008,Mumbai,8/10,4,96,44,3,no,Amit,28,2
+E1474,Mohan Chopra,,Male,Sales,Executive,105 371,29/07/2014,Pune,7/10,5,77,58,11,Terminated,priya ,1,6
+E1575 ,Kriti Gupta,27, FEMALE,Sales,Manager,unknown,04-Apr-11,Mumbai,1,,100,36,6, , ROHIT,14,5
+E1476,Amit Sharma,22, FEMALE,Finance,Analyst,"₹39,314",06-Aug-09,,N/A,9,54,41,2%,No,Suresh,31,8/10
+ 1577,Sonia Shah,, FEMALE,markting,Manager,"₹37,932",01/19/2019,Mumbai,,18,63,60,5,yes,Suresh,50,high
+E1578 , SONU AGARWAL !!,31,unknown,HR,manager,70 367,Oct 12 2018,Chennai,1/10,3,54,48,9,0,Rohit,24/10,high
+E1579 ,rahul Kapoor,37,unknown,sales, executive,Rs 52856,,Hyderabad,N/A,2,100,45,11,Resigned,,46,8/10
+E1580,Mohan Nair,32,Male,markting,manager,~122258,2013-10-28, mumbai,9/10,15,45,48,0,N,,28,8/10
+E1581 ,amit  Das,19,male ,IT,Executive,82.5k,23/10/2024,,4,5,70%,49,15,0,Priya,27,high
+E1582, Sneha Nair,29,,Fin,Analyst,Rs 47175,16-Jan-12,Delhi,5/10,12,,24,24/10,No,,12,6
+E1583,sneha shah,,F,HR,Lead,40 959,19/09/2017,Delhi,9,12,43,59,3, ,Neha,8,
+ 1584,ritu kumar,59,male ,Fin, executive,Rs 27798,12-Feb-24,,6/10,14,59,51,18,Yes, ROHIT,34,8/10
+,SONU SAXENA !!,Thirty,M,Fin,Analyst,Rs 41745,04/30/2016,Chennai,,8,77,42,5/10,no,Manager X,4 pts,high
+E1586,Neha Srivastava,20,,Fin,associate,126 582,Sep 01 2012,Chennai,4/10,9,50,54/10,3 pts,Y,Priya,10,8/10
+,Sakshi Srivastava ###,,F,HR,Lead,80 265,26/03/2014,Mumbai,7/10,19,45,41,18,0,Priya,44,8/10
+E1488,Arjun Nair,,,HR,Executive,111910,2017-07-19,,4,18,96,28,22 pts,no,Manager X,22%,
+E1489, Neha Shah,,unknown,OPS,Executive,,11/05/2010,delhi ,3,16,56,54,,Resigned,priya ,31,
+E1490,Pooja Rao,,Male,IT,manager,81 246,2014-03-02, mumbai,6/10,17,84,28,23,yes,Rohit,23,high
+E1591,Mohan Shah,18,M,Operations, executive,42 020,22-May-20,Chennai,5/10,20/10,90,25,19%, ,,25,
+E1592 ,Zara Sharma,,,Finance,Executive,,2022-07-06,Delhi,4,1,54,54,9, ,Neha,24,7
+ 1593,SURESH AGARWAL,44,unknown,sales,Executive,71 238,10/16/2019,Delhi,,7,67,29,6,1,Priya,0,high
+E1594,arjun chopra  ,36,F,Hr ,Executive,,Sep 16 2016, mumbai,8,13,56,22,25 pts,N,Priya,,8/10
+ 1595,kriti shah,Thirty,F,Hr ,Intern,54 944,16/02/2019,Chennai,N/A,10,64,20,24,1,Rohit,,
+E1496,Dev Saxena,Thirty, FEMALE,Finance,associate,~134608,07-Jan-15,delhi ,N/A,8,78%,57,2,Y,priya ,41,
+E1597 , Dev Kapoor___,Thirty, FEMALE,sales,Intern,unknown,12-Dec-10,Chennai,7,11,45,58,4,yes,Priya,0,8/10
+ 1598,Zara Sharma,,Male,Finance,Senior Analyst,78 223,Apr 12 2021,Chennai,N/A,15,41,27,23,0,Suresh,49%,8/10
+ 1599,vikas Kapoor,,unknown,Finance, executive,46 784,Oct 17 2011,,,,82,28,1,1,Priya,34,8
+E1600 ,ZARA MEHTA ###,,F,Fin,Executive,"₹120,497",Sep 15 2020,Pune,2/10,13,89,49%,17, ,Suresh,10,
+ 1601,ISHA RAO,Thirty,Male,HR,Intern,unknown,Jul 13 2016,Pune,,,56,37,23,no,Amit,44%,8
+E1602 ,KAVITA KAPOOR,Thirty,F,OPS,Manager,65054,08/03/2022,Pune,,0,42%,58,9%,no,Amit,,8/10
+E1503,Zara Singh,, FEMALE,Sales,Analyst,Rs 79984,Oct 18 2022, mumbai,N/A,20,74%,58,3,1,Rohit,0,
+ 1604,neha agarwal,Thirty,male ,Marketing,Intern,~48618,22/07/2016,delhi ,N/A,0%,87,29,11, ,Priya,9,4
+E1505,Isha Nair,Thirty,,OPS,Lead,Rs 20100,02/08/2014,Hyderabad,,1,88,25,25,Terminated,Amit,15,
+E1606,Karan Shah,,M,Finance,Executive,unknown,,Hyderabad,N/A,9,77,31%,8,yes,Rohit,26,8/10
+E1607 ,Rohit Agarwal,,M,Fin,associate,52.5k,25-May-20,Hyderabad,N/A,15,,27,1,Y,Neha,6,4
+E1508, SURESH JOSHI  ,Thirty,unknown,sales,Executive,"₹130,110",03/11/2014,Delhi,5,,73,29,15,Terminated,Manager X,42,high
+E1609,Aanya Srivastava ###,32,unknown,sales, executive,"₹99,774",Nov 08 2013,Hyderabad,3,20,74%,25,20,1,,6,8/10
+E1510,SONU CHOPRA,,Female,markting,Executive,61.7k,23/09/2022,,N/A,3,71,24,1, ,Rohit,2 pts,10
+ 1611,Vikram Kapoor  ,,male ,Hr ,Intern,92083,24-Jan-19,Delhi,N/A,4,44,50,24,Terminated,Amit,44,6
+E1612 ,amit  Rao,,,Finance,Intern,"₹24,854",Dec 10 2015,Delhi,6,3,56,45,21,Yes,priya ,30 pts,
+E1613,amit  Chopra,Thirty,M,IT,Manager,125417,14-Mar-21,Hyderabad,1/10,16,75,60,21,yes,,20,8/10
+,amit  Saxena,44,F,Sales,Senior Analyst,,Jun 18 2008,Delhi,7,16,,30%,19,Terminated,Suresh,14/10,8/10
+E1615 , Neha Gupta,,F,IT,Manager,unknown,,,3,10,83,37,15,Yes, ROHIT,43,4
+E1616 ,sonu Kumar,Thirty,male ,sales,Lead,unknown,19-Dec-10,Pune,N/A,0,48,54,15,Yes,Neha,,8/10
+E1517,Priya Joshi !!,Thirty,Female,OPS, executive,54862,2021-03-07,Delhi,4,18/10,43,21/10,0,no,priya ,48,high
+E1518, Ritu Gupta,Thirty,,Sales,Executive,,01/21/2019, mumbai,5/10,1,78,41,17%,Resigned,,22,high
+,zara joshi,,unknown,Sales,manager,unknown,06-Apr-13,Mumbai,,17,58,46,4,No,Manager X,32,4
+E1620,Maya Rao___,,Male,Operations,associate,77676,01/08/2012,delhi ,4/10,18,56,36,3,0,Amit,20,8/10
+E1621 ,Priya  Chopra,Thirty,F,Finance,manager,,Jan 15 2023,,7,,51,50,2,Yes,Priya,,8/10
+E1622 ,sunita mehta,48,M,Finance, executive,57 892,,Pune,4/10,12,69,31,7,no, ROHIT,,
+E1623,Rahul Gupta ###,Thirty,male ,Marketing,Executive,47 842,Aug 01 2009,Pune,N/A,10,61,28,14, ,Priya,12,1
+E1624 ,Mohan Chopra,Thirty,M,IT,Lead,,2012-07-27,Hyderabad,N/A,12,41,33,12,N,Rohit,39,5
+E1625,vikas Khandelwal___,,unknown,Operations,associate,unknown,02/02/2011,Delhi,7,1,91,60,12,1,Priya,18,8/10
+ 1626,Vikram Gupta,Thirty,male ,Fin,Manager,unknown,, mumbai,,19,49,47,23,1,Priya,8%,high
+ 1627,Sneha Bhat !!,,M,IT,Senior Analyst,127 036,25/09/2014,Pune,N/A,16,72,28,17,Terminated, ROHIT,18%,7
+E1528,amit  Nair,Thirty,male ,sales,Analyst,~118702,27-May-23,delhi ,7/10,,79,32,17/10,1,Priya,,high
+,Pooja Das,Thirty,,Operations,manager,~118514,2015-11-24,Pune,N/A,8%,64,46,9,1,,22,high
+,Ramesh Kumar,27,F,it, executive,unknown,,Chennai,6,2,66,39,6,yes,Amit,,
+E1631, Kriti Nair,Thirty,Female,Fin,Lead,,30-Nov-20,Pune,6/10,17,64,,6,0,Suresh,,8/10
+E1532,Rahul Nair,53,M,OPS, executive,Rs 20142,08/17/2013,Pune,1,11,88 pts,,6,no,Priya,36,high
+ 1633,Arjun Agarwal,Thirty,,markting,Intern,Rs 139151,Mar 27 2019,Pune,N/A,16,76,34,0,Resigned,,45,8/10
+E1634 ,Sneha Kapoor,,M,Fin,Senior Analyst,"₹106,140",2019-11-17,,9/10,9,92,39,0,no,Rohit,29,8
+E1635 ,KRITI KAPOOR,Thirty,Male,Sales, executive,61 465,Jan 09 2024,,,14,85,48,6,Resigned, ROHIT,39,8/10
+ 1636,Rohit Bose,,,IT, executive,128.4k,May 06 2020,,7,4,65/10,57,3, ,Amit,40,9
+E1537,Sakshi Shah,Thirty,M,Sales,Lead,unknown,2021-05-14,Mumbai,8/10,7,75/10,34,21,Y,priya ,2,8/10
+,Maya Kapoor,, FEMALE,markting,Lead,,2024-08-03,Pune,,,94,22,16,no, ROHIT,17,high
+,Dev Bhat,48,Female,IT,Senior Analyst,~148159,13-Jun-12,,N/A,17,77,48,4,Terminated,Suresh,22,8/10
+ 1640,mohan chopra,,Male,HR, executive,Rs 48564,05/10/2018,,9,11,68,29,16,no,Amit,8,high
+, vikas Patel,41, FEMALE,OPS,Intern,90.5k,2016-09-22,,,12,64,60,20,Y,Priya,27%,6
+E1542,pooja patel,,Female,Finance,Intern,129 809,2016-09-02,delhi ,N/A,14,48,28,20,Yes,Rohit,27,8/10
+E1543,Neha Bhat,,,sales,Manager,Rs 20196,29-Sep-24,Chennai,5,4,48,37,2,0,,35,6
+E1644,Kavita Agarwal,43,male ,Marketing,Analyst,Rs 100842,2015-11-10,,,13,91,55,4, ,Manager X,47,high
+,Rahul Patel,34,male ,Fin,Analyst,23.4k,04/12/2020,Delhi,,2,93,38,17,Resigned, ROHIT,14,
+E1646,Ramesh Bose,,F,IT,manager,"₹32,162",12-Mar-21,,6/10,2%,58 pts,38,13,Yes, ROHIT,23,8/10
+E1547,ROHIT CHOPRA !!,,,IT,Manager,143900,2020-04-20,,N/A,20,48,23,0, ,Neha,15,high
+E1548, AMIT  MEHTA,, FEMALE,OPS,manager,139269,05/02/2011,delhi ,,4,70 pts,24,18%,1,,15,
+E1549,RITU SINGH,55,M,OPS,Executive,~26185,2022-09-09,Mumbai,10,3,59,32,5,No,Neha,10,8/10
+,Aanya Singh,Thirty,unknown,sales,Analyst,42 709,23-Aug-17,Chennai,5,18,88,60,8,Terminated,Manager X,11,8/10
+E1651,Aanya Patel,54,male ,Hr , executive,Rs 145886,Jul 10 2013,Delhi,N/A,9,90,45,5,Y,,27,
+ 1652,rahul saxena,Thirty,F,IT,Intern,unknown,14/04/2021,delhi ,N/A,2,81,32,7,Terminated,Suresh,26,
+ 1653,Amit Saxena,Thirty,F,Fin,associate,"₹123,196",13/12/2015,Mumbai,7/10,14/10,41,28,5,No,Suresh,34,9
+ 1654,Pooja Singh,,,Finance,Intern,,04/02/2015,Pune,N/A,9,98,49 pts,0,Y, ROHIT,42%,8/10
+E1655 ,AMIT  CHOPRA,,F,Finance,manager,"₹48,924",,Hyderabad,,18,89,,24/10,no,Suresh,17,8/10
+E1556, rahul Nair  ,21,,Hr ,Senior Analyst,"₹24,941",2020-03-17,Mumbai,,18,82%,23,,Resigned, ROHIT,26,7
+E1657,Pooja Srivastava,, FEMALE,Marketing,associate,Rs 54227,09/12/2012,Chennai,2,15,71,26,1,No,Priya,50,3
+ 1658,rahul Chopra,Thirty,Male,IT,associate,"₹92,829",03/09/2010,,6/10,15,99,50,12, ,Priya,15,8/10
+,Kriti Gupta,28,M,HR,manager,57219,2013-04-29, mumbai,4,13,82,55,5,Terminated,priya ,47,high
+,Kavita Kumar,Thirty, FEMALE,sales, executive,99 234,29/05/2021,Delhi,1,18,61,45,16,yes,priya ,40,8/10
+E1561, SONU BOSE,Thirty,Male,HR,Intern,132 593,2012-12-27,Hyderabad,7/10,8,89,20,13,Terminated,Suresh,48/10,
+E1662,kavita saxena,60,M,Finance,Executive,Rs 92379,21/06/2020,delhi ,,15,52,,2 pts,0,Priya,14,
+,rahul Sharma,46,M,OPS,associate,Rs 97601,03-Mar-08,delhi ,N/A,17,,54%,0,Y,Manager X,15,3
+,Sneha Khandelwal,Thirty,Male,IT,Manager,104.1k,,Chennai,6,7,47,59,8,1,Amit,20,8/10
+,Rahul Shah,Thirty,Male,sales, executive,94244,22/01/2016,Hyderabad,1,1,55,,12,No,Neha,26,10
+E1566,Karan Rao,Thirty,M,OPS, executive,58 765,10/03/2019, mumbai,,5,56,20,14,N,Manager X,15,high
+ 1667, Aanya Das,,,Sales,Executive,Rs 56379,18/05/2009,Chennai,,19,54,54,12,yes,,25,10
+E1668 ,Ankita Gupta,,Female,sales,Lead,Rs 90985,21/01/2016,Pune,7/10,15,65,42,3,Resigned,Amit,19,6
+E1569,Suresh Verma ###,,F,Hr ,Lead,31108,,Delhi,,13/10,51,37,23,Y,Amit,46,
+E1670,Sneha Bose,Thirty,unknown,Hr ,associate,"₹120,713",06/14/2016,,N/A,0,58,59,2,1,,45,8/10
+E1671 ,rohit singh,,unknown,it,Analyst,"₹73,317",2022-01-06,Pune,3,3,,60,6,no,priya ,7,
+E1672 ,Sonia Kapoor,49,Female,Marketing,Executive,99 465,2008-11-24,Chennai,6/10,18,84/10,24,11,1,,39,high
+E1673,Kavita Bhat,39,M,Sales,Manager,32 892,05-Sep-08, mumbai,N/A,9,90,43/10,15,N,Neha,15,high
+E1674 ,Kriti Khandelwal,45,M,Marketing,Intern,~112819,06/26/2008,Hyderabad,3,13,66,41,21,yes,priya ,26,high
+E1675,Kriti Agarwal,26,M,Fin,Manager,unknown,09/24/2022,Delhi,3/10,9,94,20,15,yes,Manager X,7,8/10
+E1676,Vikram Rao___,27,F,Hr ,Executive,110887,09/02/2023, mumbai,N/A,12,65,28,25,No,Priya,8,1
+ 1677,Sneha Kapoor,52,F,Finance, executive,,2016-07-18,Pune,N/A,15,,41,9, ,Rohit,1,high
+ 1678,amit  verma,Thirty,F,Operations,Analyst,128117,06/11/2015,Hyderabad,,16,81%,33,18,Yes,Suresh,16,high
+E1579,Rohit Bose,39,Female,Marketing,associate,104.6k,04/10/2018, mumbai,1/10,,99,44,, ,Amit,9,8/10
+ 1680,Dev Bhat,,,sales,associate,unknown,Oct 03 2020,,,18,82,50,0,no,Manager X,12,high
+E1681 ,Aanya Agarwal,Thirty,M,Marketing,Executive,unknown,11-Feb-10,,6,2,57,51,24,Resigned,Manager X,13,8/10
+E1682 , Arjun Shah,Thirty,Male,IT,manager,~36486,2017-07-25,Chennai,N/A,,98,20,7,yes,priya ,50,2
+ 1683,Sneha Singh,42,Male,Fin,Analyst,,2011-04-14,Delhi,5/10,6,53,42,22,No,,7,8
+E1684 ,Karan Srivastava,36,,it,Senior Analyst,45 529,2008-05-11, mumbai,,4,85,59,4,Y,Neha,39,high
+E1685 ,rahul Rao,55,Female,Operations,Analyst,"₹117,677",,Hyderabad,3,0,62,36,19,no,Neha,20,high
+E1686 ,Pooja Kumar,,,Finance,associate,unknown,09/08/2016,Chennai,1/10,2,84,47,4,Y,Rohit,46,1
+E1687,amit  singh  ,42, FEMALE,HR,Analyst,~93331,19-Mar-11,Mumbai,7,20,55,33,6,Yes,Amit,46%,
+E1688,Isha Agarwal,52,M,it,Senior Analyst,64 030,Mar 12 2020,Pune,1/10,1,80,35,,No,Rohit,8,high
+ 1689,Sneha Agarwal,Thirty,F,HR,Manager,~24762,03/10/2012,Delhi,N/A,6,58,57,4,0,,46,8/10
+E1690 ,ARJUN KHANDELWAL,Thirty,F,sales,Senior Analyst,~76681,,Hyderabad,N/A,5,67,52/10,14,1,Manager X,10,10
+E1691 ,Sneha Shah,,unknown,Hr ,Lead,unknown,12-Jul-21,Hyderabad,1/10,17,41,38,3,N,priya ,35,high
+E1692 ,Karan Kumar,Thirty,,Sales,Analyst,~134430,Feb 05 2008,Pune,5/10,16,96,23,24/10,Yes,Priya,6,1
+ 1693, Zara Verma,Thirty, FEMALE,IT,Executive,41.2k,Feb 24 2017,Chennai,2,,90,21,25,1,Rohit,16,
+E1694 ,Mohan Chopra,Thirty,male ,Marketing, executive,~143998,19-Mar-23,delhi ,N/A,6,100,24,17,1,Manager X,32,
+,Isha Rao,58,,Hr ,Senior Analyst,unknown,08/11/2019,Chennai,N/A,15,99,35,13,no,Suresh,19,high
+ 1696,priya bose,Thirty,Male,Fin,Executive,89 731,2011-09-15,Delhi,,5,,49,15, ,Manager X,17,
+ 1697,sakshi sharma,40,M,markting,Analyst,~59308,,Pune,,6,48,34,19,no,Priya,46,
+,Rahul Sharma,,M,it, executive,unknown,12/23/2022,Mumbai,,15,85,41,, ,Priya,37,high
+,Sonia Bose,44,unknown,IT,associate,"₹130,782",24/06/2012,,5,4,93,30,3,Resigned,Suresh,33,
+E1700,Rahul Srivastava,45,Male,Finance,manager,"₹144,494",2019-01-30,delhi ,,19,98,46,3,no,Suresh,50,9
+,DEV BOSE,,F,sales,Intern,68007,Mar 31 2011,Pune,2/10,8 pts,89,31,22,Y,Suresh,12,high
+E1602,Arjun Srivastava !!,Thirty,unknown,Hr ,Manager,"₹108,893",24/02/2017,Mumbai,10/10,12,91,33,13%,Yes, ROHIT,31,3
+ 1703,Isha Rao,,unknown,HR,Analyst,Rs 67052,22-Apr-23,,,11,93,32 pts,10/10,Yes,Rohit,49,
+ 1704,Kavita Bhat,40,M,Fin,manager,unknown,2016-11-22,Chennai,1,19,57,42,22,1, ROHIT,32%,
+E1705 ,ankita kumar,42,Female,it,Intern,Rs 40929,,Chennai,9/10,11,89,24,16,no,,0,8/10
+E1606,Priya  Joshi,,,Hr ,Executive,26051,,Pune,2,1,69/10,37,0, ,Manager X,6,high
+E1707,sonu Gupta  ,,male ,Operations, executive,,11/13/2016, mumbai,2/10,14,68,27,16,1,Neha,37,8/10
+E1708 ,Isha Rao,Thirty,unknown,markting,Intern,127893,19/02/2011,delhi ,,9,51,33%,2,No,Suresh,11,high
+ 1709,Sunita Gupta,,unknown,Sales,Intern,~70895,05-Sep-20,,N/A,17,40/10,51,7,No,Manager X,36,3
+E1610, Kavita Verma,34,,markting,Executive,"₹95,891",17/02/2018,Pune,,15/10,41%,48,12,0,Manager X,43,high
+ 1711,Kavita Chopra,26,unknown,HR,Manager,unknown,05/13/2017,Mumbai,9,0,80,40,13, ,priya ,23,8/10
+E1712,Arjun Srivastava,22,F,it,Analyst,Rs 71375,21/07/2010,Delhi,N/A,15,84,32,7 pts,Y,Amit,48,10
+E1613,Kavita Patel,50, FEMALE,markting, executive,138.5k,Feb 21 2021,Mumbai,,6,98,41 pts,2,yes,Manager X,35,8/10
+E1714 ,Pooja Patel,,Male,HR,associate,71.8k,11/09/2013,delhi ,,10,53,20,19,N,Amit,41,high
+ 1715,isha agarwal,Thirty,M,markting,Manager,,03/21/2012,Mumbai,7,2,79,48/10,3,Y,Amit,45,
+,Neha Srivastava,,F,IT,Senior Analyst,~76869,2008-04-28,Mumbai,,5,95,21,25, ,Suresh,28,2
+ 1717,Arjun Kumar,,Female,Marketing,Lead,66.1k,2021-11-27,Chennai,,9,93,60,5,No,Amit,41,high
+E1618,Priya  Shah,,,sales, executive,Rs 98636,10/12/2020,Chennai,N/A,2,44,,19,Y,Rohit,17,5
+E1719 ,Arjun Patel,Thirty,F,Finance,Intern,,Jul 17 2024,Hyderabad,,1,63,35,19,N,Amit,28,high
+E1620,sonu Bhat,,unknown,OPS,Analyst,unknown,27-Jul-21,delhi ,,19,65,27,0 pts,Y,Rohit,35,high
+ 1721,vikas Joshi,Thirty,male ,Hr ,Analyst,"₹73,553",2022-05-30,Hyderabad,10,8,45/10,53,22,N,,30,6
+,Rohit Bhat !!,,male ,Fin,Executive,46 792,Apr 02 2016,Hyderabad,,0,57,41,22,0,Manager X,19 pts,8/10
+E1723,Kavita Bhat,20, FEMALE,Sales,Senior Analyst,~90636,01-Jan-19,Pune,7,20,73,46,21,N,Neha,1,
+E1724 ,Isha Shah,31,male ,OPS,associate,~132676,18-Nov-23,,N/A,15/10,64,32,9, ,Suresh,25,
+E1725,Isha Kumar,44,unknown,markting,Analyst,78.8k,01/05/2018,delhi ,N/A,13,48,48,16, ,priya ,31,high
+,vikas Rao,40,unknown,markting,Lead,123 181,13/08/2008,,N/A,,95,50,9,Y,Priya,4,
+E1727,KRITI SHAH,Thirty,Male,sales,manager,~72222,13/05/2011,delhi ,6/10,16,81,41,21,1,Amit,40,1
+,Maya Sharma !!,Thirty, FEMALE,sales,Manager,unknown,2009-10-20,Mumbai,9/10,14,67 pts,50,16,Resigned,priya ,42,8/10
+E1729 ,rahul Joshi,,,Operations,manager,"₹22,198",06/09/2011,Chennai,3/10,15,41,35,4%,N,Priya,13,7
+,Kavita Chopra,, FEMALE,IT,Intern,79 664,2010-11-16,Chennai,,9/10,98,50,2,1,,19,high
+E1731, Vikram Kumar ###,Thirty, FEMALE,Finance,Intern,unknown,2019-12-27, mumbai,,20,75,59,18,Terminated,Priya,10,high
+,Mohan Kapoor,57,F,it,Senior Analyst,"₹143,530",Dec 23 2014,Mumbai,9,6,56,28,5, ,Manager X,36,1
+E1633, Rohit Kapoor,,,HR,Senior Analyst,"₹52,697",05/19/2022, mumbai,4,10,,48,3,1,Manager X,39,high
+E1734 ,Arjun Saxena,Thirty,M,Fin,Manager,unknown,05/30/2021, mumbai,N/A,9,98,46,23, ,Priya,1/10,high
+E1635,Mohan Gupta,Thirty,Female,OPS,Lead,unknown,Jul 18 2016,Hyderabad,1/10,20,99,20,21,Terminated,Manager X,31/10,8/10
+E1736,AMIT  MEHTA,Thirty, FEMALE,Fin,Lead,Rs 116340,Apr 16 2012,,,2,85,52,0,Terminated, ROHIT,25,high
+ 1737,Amit Patel,,unknown,Marketing,Lead,unknown,08/12/2021,Delhi,,2,77,36,12,1,Rohit,14,8/10
+E1738 ,Karan Saxena,22,,OPS,Analyst,Rs 74616,Feb 04 2011,Delhi,2/10,17,70,48,18,Yes,Neha,21 pts,high
+E1639,Isha Patel,,unknown,Fin,Analyst,~145440,17/11/2017,Chennai,10,13,92,28,0,Resigned, ROHIT,25,high
+E1740 ,amit  Singh,Thirty,M,IT,associate,Rs 138781,2008-01-14,Chennai,,6 pts,67,47,15,1,Suresh,20,high
+ 1741,Aanya Shah,, FEMALE,Operations,manager,Rs 98603,Sep 13 2023,,N/A,8%,85,44,5,No,Priya,50,high
+E1642,Ramesh Srivastava  ,,Female,Fin, executive,unknown,2024-03-16,Delhi,,16,47,22 pts,18,yes,Suresh,9 pts,
+,sonu srivastava,,,OPS,Analyst,"₹145,162",2019-05-09,delhi ,4/10,9,94,35,12,No,Manager X,20,high
+E1644,RAHUL SINGH,Thirty,,OPS,Executive,Rs 84981,, mumbai,,19,84,42,21,Yes,Rohit,5,
+ 1745,Sunita Sharma,23,,IT, executive,54.1k,25-Apr-16,,,12%,93,56,19,N,Manager X,4,high
+E1746,Mohan Chopra,Thirty,M,it,Senior Analyst,~87810,09/03/2018,,,12,42,39,25,Y,Neha,49,8
+, Ritu Saxena,,Male,Hr , executive,144.1k,07/11/2010,Chennai,N/A,14%,82%,41,7,Y,Neha,42 pts,8/10
+E1648,Ankita Bose,24, FEMALE,Marketing,Lead,"₹60,503",05/17/2015,,,4,63,21,18,0,Suresh,31,8/10
+E1749,Suresh Kapoor,44,F,Finance,Intern,78201,2018-06-06,delhi ,N/A,20,71,35,11,Yes, ROHIT,45,8/10
+E1750, neha agarwal,,Male,OPS,Analyst,"₹119,349",15-Oct-08,,10,15,51,26,3,no, ROHIT,49,8/10
+E1651,Karan Mehta,Thirty,,Sales,Lead,,Dec 23 2019,Chennai,2/10,7,,37,9, ,Neha,27,high
+E1752 ,amit  Shah,Thirty,Male,Finance,Analyst,107057,08/02/2023, mumbai,6/10,12,94,46,25,No,Rohit,32,7
+E1753,Mohan Singh,Thirty,M,Operations,Executive,unknown,Jun 05 2010,,10/10,10,65,48,8,no,Rohit,23,5
+E1754,Dev Gupta,39,F,sales,Lead,44586,2011-03-28,Chennai,9,18,86,26,15,Terminated,Rohit,10%,
+E1655,SUNITA DAS ###,52,,Sales,Senior Analyst,,11/08/2016,,8,13,46,49,11,Terminated,priya ,44,3
+E1756 ,Suresh Verma,,Female,it, executive,126.7k,,Pune,,12,59%,45/10,19,Y,Amit,36,
+,Suresh Das,21,Female,markting,manager,"₹93,223",21/03/2020,Hyderabad,N/A,8,99,60,24,1,Amit,8,8/10
+,Mohan Nair,,F,it,Intern,"₹45,182",, mumbai,,2,56,42/10,23%,No,Rohit,34,high
+ 1759,vikas Shah ###,,Female,Hr ,Lead,,2012-04-23, mumbai,N/A,1,48,44%,12,Terminated, ROHIT,37,high
+E1760,sonu Bhat,45,Male,sales,Intern,49 417,Sep 18 2022,,N/A,7/10,51,48,15,N,Priya,49 pts,9
+ 1761, Sneha Agarwal,,Male,Operations,Intern,,Apr 30 2021, mumbai,N/A,13,43,50,11,1,Manager X,29,
+E1762 ,rahul Shah,19,Male,Fin,associate,unknown,28-Oct-15,Delhi,7/10,20,53,55,14,0,Manager X,29/10,8/10
+E1663,Zara Rao,46,Female,Sales,Lead,119.5k,06/10/2010,Hyderabad,3,13,98,34,7/10,no,Neha,,7
+E1764 ,Rahul Nair  ,,unknown,it, executive,Rs 62351,10/01/2010, mumbai,4,1,56,55,24,No, ROHIT,50/10,high
+,POOJA SINGH,37, FEMALE,Operations,Analyst,unknown,19-Apr-22,Hyderabad,1,7,50%,50%,19,Resigned,,26,
+ 1766,Mohan Khandelwal,49,Female,Marketing,Executive,125 587,02/03/2017,Mumbai,N/A,9,55,55,0,yes, ROHIT,31,3
+E1667,rahul Patel___,,Female,sales,Intern,,2022-10-08,Delhi,N/A,4,87%,42,18,Yes,Neha,46,high
+ 1768,Sakshi Mehta,27,F,sales,associate,112696,12/21/2009, mumbai,10/10,7,44,41,20,Yes,Priya,36,
+E1769,Kriti Singh ###,40,F,Finance,Executive,,Jan 09 2014,Chennai,,16,61,43,2, ,priya ,5,8/10
+,Sonia Agarwal,,unknown,Finance, executive,unknown,2021-06-26,Chennai,,20,90,35,22,Y,Suresh,12,high
+ 1771,Pooja Agarwal,48, FEMALE,sales,Intern,49202,Oct 03 2021,Delhi,4,20,77,60%,18,1,Manager X,30,
+E1772 , zara singh,Thirty,F,Sales,Manager,114 087,2022-02-13,Mumbai,N/A,7%,88,45,15, ,Amit,0,
+E1673,Aanya Srivastava,Thirty,F,OPS,manager,unknown,22-Jul-23,,6/10,19/10,50,39,,no,Rohit,38,8/10
+,Sonia Agarwal,Thirty,unknown,Finance,manager,61 693,03/06/2009,Pune,N/A,19,85,48,8,no,Suresh,14,high
+,Ritu Mehta,40,unknown,it,Senior Analyst,,2019-06-17,Chennai,N/A,7,97,31,3,0,Suresh,1,8/10
+E1676,PRIYA RAO,26,M,Operations,Manager,127328,01/05/2010, mumbai,N/A,1,57,37,21,1,Suresh,4/10,high
+E1777,Suresh Das___,Thirty,Female,Finance,manager,138412,30/08/2024,delhi ,10,19,61,40,12,Resigned,Rohit,,7
+E1778 ,Suresh Kumar,45, FEMALE,IT,Analyst,134557,08/22/2009,Delhi,5,10,72,46,2,1,Amit,32%,2
+E1779,Sakshi Chopra !!,56,unknown,it,associate,"₹85,645",2012-08-23,delhi ,N/A,7,72,42 pts,,N,Amit,42,
+E1780 ,KAVITA PATEL,28,Female,OPS,Intern,Rs 78645,10/04/2018, mumbai,7,14,85,34,19, ,Manager X,6,
+E1781 ,Maya Kumar,Thirty,,Hr ,manager,~28962,2010-04-07,Hyderabad,N/A,1,63,39,16,no,Rohit,1,high
+E1782 ,Aanya Mehta,Thirty,F,HR, executive,,10-Aug-11,Mumbai,N/A,4%,49,43,10%,N,Suresh,37,
+ 1783,Ritu Khandelwal,,Female,sales,Senior Analyst,21.7k,29/04/2014,Chennai,1,18/10,60,34,22, ,,20,
+ 1784,Kriti Khandelwal,28, FEMALE,IT,Lead,~121972,2009-04-01,Pune,3,4,42,48,3,N, ROHIT,36,
+ 1785,Pooja Sharma,25,F,Fin,Executive,83 936,Nov 24 2018,Delhi,N/A,6,70,55,9,yes,Rohit,16,8/10
+E1686,Priya  Kumar,20,Female,HR,associate,Rs 24137,Jul 15 2016,Mumbai,2/10,18,41,25,23%, ,Rohit,46,
+,Priya  Khandelwal,20,male ,HR,Intern,32.2k,2019-07-26,Mumbai,,0,45,40,18,0,Amit,,5
+E1788 ,Maya Gupta,19,Female,Marketing,manager,unknown,17/08/2018,Pune,N/A,19,86,48,18,0,Amit,38,
+E1789 ,Priya  Srivastava,22,,Sales,Senior Analyst,unknown,02/10/2018,Chennai,2,11,55%,25,20,No,Rohit,,5
+E1790,Ramesh Agarwal,,male ,it,Intern,"₹87,733",27/07/2022,Hyderabad,2,,44,34,9,Yes,priya ,33%,8
+ 1791, amit  Saxena,,male ,Marketing,Manager,~143838,10-Apr-21,,4/10,7,82,41,18,Terminated,Amit,13,1
+,Kriti Shah,Thirty,Female,markting,Lead,,11/03/2018,delhi ,,16,99,55,12,no,Rohit,30,8
+,amit  Kumar,,,Hr ,Analyst,76416,2020-07-17,,N/A,19%,64%,45,19,Y,,19,8/10
+E1794,Neha Chopra,Thirty,F,Marketing,Executive,"₹82,316",10-Nov-16,Pune,6/10,19,61/10,,21%,Terminated,Amit,5,7
+ 1795,Maya Mehta,Thirty,Female,IT,Manager,132.1k,,Pune,,12,88,55,6,Yes,Suresh,42,
+E1796 ,Ritu Bose ###,Thirty,M,IT,Analyst,73.8k,21-Oct-19,delhi ,N/A,2,,32,22,1, ROHIT,12,10
+E1797 ,RITU AGARWAL,Thirty,Female,markting,Senior Analyst,Rs 106322,Feb 20 2011,Pune,7,5,69,59,5, ,,48,high
+E1698,Mohan Saxena,25,male ,Finance,Senior Analyst,unknown,Jul 27 2021,Delhi,N/A,15 pts,60,23,22,Resigned,priya ,39 pts,10
+E1699,Amit Nair,Thirty,,sales,Analyst,Rs 48359,05/30/2019,Mumbai,1/10,19,77,34,25,N,priya ,37,
+,PRIYA  AGARWAL ###,47,F,markting,associate,Rs 75796,24-Oct-16,Hyderabad,2/10,11,94,20,7/10, ,Rohit,40,8/10
+E1701,SAKSHI PATEL,51,Female,IT,Lead,unknown,Jul 08 2014, mumbai,3,15%,,38,8,Terminated,Rohit,31,8/10
+, Rohit Patel,19, FEMALE,HR,Analyst,"₹87,275",Jun 12 2023,delhi ,N/A,,53,28 pts,1,no,Amit,45,high
+E1703,Maya Das,Thirty,Male,Fin,Manager,unknown,2012-12-16,Hyderabad,N/A,17,40,36,2,1,,,high
+, MOHAN DAS,,M,Fin, executive,Rs 128807,24/02/2021,delhi ,,,79,56,23,N,Rohit,45,
+E1705,rahul Bhat,Thirty,unknown,OPS,Intern,~50803,2024-08-07,delhi ,7/10,10,78,25 pts,24,Resigned,,11,
+E1806 , priya rao,33,male ,Operations,associate,136771,19-Apr-21,Mumbai,9,9,78,41,21,yes,Amit,20,8/10
+,Maya Khandelwal ###,Thirty,F,Sales,Intern,~119430,15-Mar-11,delhi ,6,12 pts,73,22,11,yes,Priya,49,8/10
+E1808, amit kapoor,Thirty,F,Sales,Lead,unknown,2024-08-09,Chennai,N/A,18,48,41,25,Resigned,priya ,47,
+ 1809,Karan Bhat,34,unknown,sales,Senior Analyst,26704,19/07/2018,,,8,81,39,1,yes,,8,high
+E1710,Sneha Agarwal,34, FEMALE,Fin,associate,~47433,Apr 13 2022,Delhi,N/A,11,72,51,25,Resigned,Suresh,13,
+E1811,Maya Gupta,58, FEMALE,OPS,Analyst,104137,28/12/2019,Hyderabad,3/10,6,60,32,10 pts,Terminated,Amit,46,8/10
+,Vikram Patel,,unknown,IT,Intern,97887,14/11/2010,delhi ,8,9,96/10,42,,yes,Amit,2,
+E1813 ,Sneha Nair,43,M,HR,associate,93.9k,2021-05-23,Pune,N/A,10,46,29,7,N,,18,
+E1814,Sakshi Nair,21,,Finance,manager,76191,Dec 05 2018,delhi ,4/10,15,76,46/10,22, ,,46,8/10
+ 1815,Amit Patel___,Thirty,Male,sales,Manager,80019,2018-05-14,Mumbai,2/10,1/10,,47,3,Resigned,Neha,43,4
+ 1816,Ankita Shah,39,Male,Hr ,Manager,Rs 40921,2008-12-11,Pune,9/10,20,51,38,23,yes, ROHIT,9/10,
+ 1817,Sonia Sharma,53,male ,Marketing, executive,unknown,12/31/2020,Pune,N/A,0,84,36,8,yes,Manager X,29,8/10
+E1818 ,Isha Bhat,, FEMALE,Hr ,Lead,80050,08/12/2009,,,4,78/10,45,20,0,Amit,0,8/10
+E1819,Aanya Joshi,Thirty,,sales,Intern,~81859,28-Mar-11,Chennai,,4,63,45,19 pts,Resigned,Amit,33,8/10
+E1820,amit  Kapoor,41,Male,Hr ,Lead,"₹105,047",25-Mar-09,delhi ,5/10,7,63,48,9,N,Priya,5%,8/10
+E1821, Sonia Gupta ###,21, FEMALE,OPS,Intern,,21/01/2022,Pune,1,5,63,50,22,N,Neha,38,high
+,Sonia Patel,Thirty,M,Sales,Intern,unknown,31/10/2015,,,2,55,59,25, ,priya ,24,7
+ 1823,AANYA DAS,60, FEMALE,it,Intern,unknown,10/07/2009,delhi ,10,16 pts,72,22,8, , ROHIT,27,high
+E1724,maya shah !!,,Female,it,Intern,unknown,Sep 03 2021, mumbai,4/10,2,66/10,23,22,Resigned,Amit,48/10,8/10
+,Suresh Bose,,male ,it,Executive,,2020-04-16,Pune,N/A,8,,31,3,Y,priya ,50,7
+E1826 ,ANKITA KHANDELWAL,57,,Hr , executive,,Feb 25 2020,,,8,68,35,19, ,Neha,26,8/10
+E1727,amit  Agarwal,,F,it,Analyst,Rs 34533,11/04/2019,delhi ,10/10,13,66%,43,4,no,Amit,29,high
+ 1828,Amit Das ###,37,F,Sales,Senior Analyst,,14-Dec-11,Mumbai,7/10,9,62,26%,,Resigned,Rohit,35,8/10
+E1829 ,Rohit Das,,,Finance,manager,~76755,2014-08-25,Delhi,9/10,10/10,98,,10,1, ROHIT,48,high
+E1830 ,POOJA VERMA ###,Thirty,unknown,HR,Executive,Rs 47473,30-Aug-12,Hyderabad,,4,87,47,24,Resigned,priya ,,
+E1831,Dev Khandelwal,,M,OPS,associate,49.8k,03/15/2022, mumbai,,13,48,48,1 pts,no,Manager X,33,4
+E1732,sonu Agarwal,,Male,Marketing,Executive,123 371,,Pune,,9,86,57,14,No,,30,high
+ 1833,Arjun Chopra,,Male,Marketing,Intern,87 488,02-Sep-17,Chennai,3/10,19,50,42,14,yes,Neha,43,high
+E1734,arjun nair,31,Female,IT,Analyst,49.5k,2008-08-25,Chennai,9,12/10,55,23,,Terminated,Amit,7,high
+E1735,Aanya Joshi,,Female,Operations, executive,unknown,03-Apr-16,delhi ,,18,63 pts,40,20,Terminated,Priya,28 pts,5
+ 1836,Sunita Srivastava,,M,Sales,Lead,Rs 137207,31-Aug-09, mumbai,2/10,2,71,29/10,1,0,,48,4
+ 1837,priya  bhat,33,Female,IT,Intern,135 088,,Pune,N/A,7,90 pts,25,17,Terminated,Rohit,22,10
+E1838,Sneha Khandelwal,33, FEMALE,Marketing, executive,"₹21,069",2021-04-30,Mumbai,5/10,8,70/10,58,22,Resigned,,5,3
+E1839,Suresh Sharma,50,F,Sales,Manager,58 010,Aug 26 2011,Delhi,9,18,91,56%,16,no,Manager X,25,4
+E1840 ,Suresh Rao,Thirty,Female,Hr ,Manager,21.5k,2020-08-18,Mumbai,,1,47,30/10,8,N,,1,8/10
+E1841 ,Karan Verma,Thirty,unknown,IT,Senior Analyst,unknown,2012-09-07,Hyderabad,N/A,20,81,23,24,Yes,Neha,48,4
+E1842 ,zara agarwal,,,OPS,Senior Analyst,Rs 132891,23/07/2013,,N/A,3,92%,57,8,no,Neha,11,8/10
+,Pooja Bhat,Thirty,F,Fin,Executive,,2024-06-03,,,17,63,37,3, ,,50/10,
+E1744,Arjun Khandelwal,Thirty,F,IT,Senior Analyst,89715,,Chennai,N/A,11,97,50,12,yes,Amit,25,
+ 1845,Maya Khandelwal,50,Female,markting,Intern,"₹53,169",Dec 31 2011,Mumbai,N/A,2,47,21,2/10,1,Amit,50,8/10
+,sakshi nair,34,unknown,Hr ,Manager,149 582,06/13/2012,delhi ,,18,67/10,20,13,0,Rohit,14,8/10
+,rahul Singh,,F,it,manager,106261,15-Apr-15,Delhi,,0,45,43%,2,Y,Amit,15,high
+E1748,RITU KHANDELWAL,Thirty, FEMALE,markting,manager,"₹134,854",Jan 24 2012, mumbai,N/A,13,93,42,,Yes,Priya,26,8/10
+E1749,Ramesh Chopra,55,F,Operations,Manager,unknown,09/05/2020,Pune,N/A,2,42,20,3 pts,Terminated,Manager X,28,4
+,Ritu Shah,Thirty,F,Operations,manager,Rs 121432,25/02/2020,Chennai,N/A,11,76,33/10,13,Terminated,priya ,45,
+E1851,Sonia Kapoor,Thirty,male ,HR,Analyst,"₹83,916",2017-05-05,Mumbai,,8,46,35,11,Y,priya ,13,high
+E1752,Sunita Khandelwal,,Male,Sales,Lead,"₹93,441",22/08/2015,Pune,2/10,2,75,30,18,1,,26,high
+E1753, Isha Mehta,,M,HR,Analyst,128672,16-Sep-24,Delhi,N/A,1,89,47,7,Yes, ROHIT,15,8/10
+E1854 ,Priya  Chopra,,Male,Hr ,Intern,108 237,11/09/2016,,N/A,12,89,26,15,Yes,Neha,19,3
+E1755,Arjun Patel,Thirty,male ,Operations,Executive,~144915,29/12/2012,Delhi,N/A,,64,52,8,N,Priya,8,8
+E1856,Priya  Bose,Thirty,F,Finance,Executive,unknown,13/10/2013,Pune,N/A,5,54,34,10,Yes,Neha,14,1
+ 1857,amit  Shah,Thirty,unknown,Sales,Intern,45.9k,2012-05-29,Chennai,,12,48,,14,Resigned,Manager X,48,8/10
+ 1858,rahul Joshi,Thirty, FEMALE,Marketing,Intern,Rs 115408,Dec 23 2018,Chennai,10/10,13,85,32,19, ,Neha,16,
+ 1859,Priya Rao,51,F,HR,manager,23.0k,Apr 26 2021, mumbai,,11,86 pts,20,23,Terminated,Amit,25,8/10
+E1860 ,Kavita Kumar,33, FEMALE,markting,Manager,136729,06/07/2015,delhi ,N/A,5,76,48,13, ,Manager X,38,high
+,Mohan Chopra,,Male,it,Lead,48468,2024-07-23,Delhi,8/10,12,87,44,23,no,Suresh,32,10
+E1862 ,RAHUL JOSHI,Thirty,,sales,Analyst,,23/09/2024,Hyderabad,N/A,17,52,59,2,Yes,Amit,38,high
+,vikas bhat,,,Fin,Intern,,12/06/2023,,,4,82,25,25,0,Priya,37,
+E1864 ,Ramesh Rao,Thirty,F,it,Analyst,Rs 71782,18/04/2009,Chennai,N/A,8,80,39,8,yes,Priya,11,7
+E1765,dev agarwal  ,Thirty,male ,sales, executive,20 090,25/04/2009,,N/A,8,77%,47/10,,no,,44,7
+ 1866,pooja verma,32,F,Operations,Executive,unknown,02-Nov-22,Delhi,,10,41,50,3,No,Rohit,18,2
+,Isha Verma,Thirty,Female,Finance, executive,~101981,, mumbai,6,18,66,47,15%,Terminated,Suresh,39,
+ 1868,sakshi bose,23,F,Finance,Executive,29.7k,01/12/2015,Pune,,1,92,24,11,yes,priya ,16,2
+E1769,Pooja Saxena,, FEMALE,HR, executive,,2011-10-08,Mumbai,9,20%,97/10,34,19,yes,Manager X,22,
+E1870,Arjun Singh,Thirty,Female,Sales, executive,"₹103,003",Jan 27 2017,Delhi,5,11,88/10,47%,12,Resigned,Amit,16,7
+ 1871, amit  Kumar,53,male ,sales,manager,54 552,2015-11-26,Hyderabad,,16/10,84,45,21,N,Amit,31,5
+,Suresh Srivastava,,,IT,manager,131.1k,Jan 24 2022,delhi ,N/A,19 pts,52,38,20,Y,,33,8/10
+E1773,KRITI AGARWAL,,,Sales,Senior Analyst,Rs 60428,Dec 20 2016,Hyderabad,8,12,71,38%,11,yes,Neha,5,high
+E1774, vikram das,,male ,Fin, executive,"₹135,155",06/03/2010,Delhi,6,20,54,32,, ,Neha,18,3
+E1875,Kriti Kumar,Thirty,Female,Marketing,Manager,56836,27-Jan-20,Chennai,N/A,15,,29%,13,No,Neha,31,9
+ 1876,Neha Sharma,37,,Operations,Lead,unknown,03/27/2023, mumbai,N/A,9,95/10,39,4,0,Rohit,20,high
+E1777,aanya gupta,Thirty,Male,Operations,Analyst,149.1k,13/03/2016,Pune,8/10,0,70,22,15,Resigned,priya ,5,high
+E1778,Rohit Mehta,Thirty,M,sales,Executive,32488,2014-08-18,delhi ,5,,64 pts,42,9,Y,Neha,13,2
+,Sunita Rao,Thirty,,Fin,Lead,"₹23,734",,Delhi,5/10,9,63,42,20%,0, ROHIT,25/10,high
+ 1880,Rahul Singh,Thirty,M,Hr ,Intern,96463,21/09/2012,Mumbai,3/10,7,75,20,3,Resigned,Neha,25,8/10
+,amit agarwal,,Male,Sales,Lead,Rs 69496,29/04/2020,Mumbai,9/10,3,94,54,8,Y,Neha,38,high
+ 1882,Sonia Saxena___,43,male ,it,manager,149.6k,07/15/2012,delhi ,,18,47,47,,1,Neha,29,high
+ 1883, amit  Rao,Thirty, FEMALE,Fin,manager,~141335,05/22/2020,delhi ,2/10,15,46,32,18,0,,33,
+, Mohan Bhat,Thirty,Female,Fin,manager,48843,Aug 19 2022,delhi ,N/A,4,40,45%,1%,no,Priya,21,high
+E1785,Priya  Mehta,Thirty,Male,HR,Analyst,unknown,08/15/2016,,,20,76,50,0, ,,29,3
+ 1886,rahul joshi,,F,OPS,Executive,~27488,Sep 04 2016,,,19,94,48,15,Terminated,Manager X,19,8/10
+E1787,vikas Patel___,Thirty,,HR,Analyst,~141621,21/08/2018, mumbai,N/A,18,84,46,1,0,,31,8/10
+,Priya  Das,Thirty,male ,Hr ,Manager,~65727,22/07/2024,delhi ,,20/10,56 pts,35,20 pts,Terminated, ROHIT,39,high
+,Pooja Sharma,,Male,Operations,Senior Analyst,89.7k,12/20/2019,Hyderabad,4/10,19,78,53 pts,25,0,Neha,3,high
+E1890,Priya  Joshi,38,Male,markting,Executive,~73426,15-Dec-19,Hyderabad,,12,57,45,7,yes,priya ,12,high
+E1891,AANYA SRIVASTAVA,22,Female,Sales,Executive,,Oct 31 2018,Mumbai,10,12,77,60,,No,Suresh,16,high
+E1892 ,Dev Shah,Thirty,M,sales,Analyst,,,Hyderabad,,13,45,54,5,1,Priya,13,8/10
+,Karan Srivastava,31,unknown,sales,associate,78444,Jul 21 2023,Delhi,8,1,94,21,15,Resigned,Neha,48,high
+ 1894,Vikram Sharma,,male ,markting,Analyst,133 767,28/11/2021,,3,19%,95,52,12,No,,31,high
+,Ramesh Verma,55,Male,Finance,Executive,147364,03-May-16,Delhi,N/A,19,87,22,19,no,Neha,1,
+, Ritu Joshi,Thirty,Female,Operations,Intern,125525,24-Apr-23,Chennai,3,4,62,40 pts,4,Resigned,Rohit,44,
+E1897,Sneha Kapoor ###,,male ,it,Intern,,07/30/2019,,N/A,6,87,41,16,No, ROHIT,10,
+E1898 , Sakshi Nair,39, FEMALE,Operations,Lead,unknown,2019-10-18, mumbai,6,7%,76,59,23,Terminated,Manager X,0,high
+ 1899,Priya  Gupta,Thirty,male ,Marketing, executive,113 302,, mumbai,N/A,19,62,33,16%,Resigned,Rohit,42,high
+E1900 ,sonu Agarwal,,male ,markting,Manager,36.5k,04/30/2011,Chennai,N/A,19,43,43,9,0,Suresh,46,
+E1801,rahul Shah,,F,Operations,Analyst,Rs 141913,31-Aug-17,delhi ,N/A,9/10,98,29,6,N,Priya,44,8
+E1902,Aanya Chopra,Thirty, FEMALE,Operations, executive,Rs 125043,Jul 05 2017,Chennai,N/A,13,92,20,18,Yes,Suresh,12%,high
+E1903 ,ISHA DAS,32,,it, executive,136282,25/10/2021,Mumbai,,20,42,55,3,Yes,Rohit,,
+E1804, Rahul Saxena,60,unknown,it,Executive,"₹143,684",16/10/2021,delhi ,5,13,55,28,9,Y,Rohit,47,high
+E1805,Priya  Saxena,Thirty,M,Hr , executive,73.3k,08/09/2022,Mumbai,N/A,9,59,25,12, ,Manager X,15 pts,8/10
+E1906 ,sneha singh,55,,Marketing, executive,unknown,2019-08-25,Mumbai,3/10,18,82,28,4,0,Neha,14,5
+E1907 ,rahul Kumar,,unknown,it,Senior Analyst,26 744,May 09 2015,Hyderabad,N/A,20,63,,11,yes,,40,high
+ 1908, Ramesh Mehta,44,male ,sales,manager,45 281,2011-12-25,Delhi,5,16,85 pts,28 pts,2,Resigned,Manager X,,8/10
+,vikas Gupta,52,male ,Finance,Executive,Rs 129177,25-Mar-19,Hyderabad,4/10,15,43,,1,Resigned,Priya,,
+E1810,Kriti Kumar,Thirty,,Operations,Analyst,Rs 63745,10/10/2023, mumbai,N/A,3,53,32%,20,N,Priya,14%,
+E1811,Neha Joshi,47,male ,Hr ,Senior Analyst,Rs 146671,,Chennai,10/10,14,51,45,6,N,Manager X,32/10,8/10
+, aanya das,,unknown,markting,Analyst,,2010-07-12,Delhi,N/A,,69,31%,12,no,Rohit,15,
+E1813,Amit Bose,, FEMALE,Hr ,Analyst,,22/03/2012,Mumbai,9,4,56,41,23%,yes,Amit,19%,high
+ 1914,DEV VERMA,,F,Finance, executive,46.6k,,,5/10,14,76,27,7,Terminated,Rohit,,8/10
+E1915,Neha Patel,32,unknown,HR,Lead,~104140,07-Jun-10,Hyderabad,,1,100,56,2,N,Priya,49,
+E1916,Kavita Shah,Thirty,male ,markting,Intern,unknown,02/02/2024, mumbai,6/10,11,94,43 pts,,Resigned,Manager X,27/10,8
+ 1917,rahul Patel,,Female,HR,associate,77161,Aug 04 2008,Chennai,7,18,92,23/10,4,yes, ROHIT,1,8/10
+E1918 ,Sonia Khandelwal___,Thirty,M,HR,Manager,~93815,Sep 18 2022,Hyderabad,5,15,78,56,5 pts,No,Neha,23,8/10
+, Priya  Kapoor,40,,Hr ,Intern,unknown,03/29/2012,Mumbai,9,15,68,48,19,N, ROHIT,19,8/10
+E1920, ANKITA BOSE ###,,,OPS,Manager,unknown,Jul 05 2010,Mumbai,7/10,6,53,55,10,Resigned,priya ,23,
+E1921 ,amit  patel,,unknown,it,Manager,Rs 34907,Jan 16 2017,Chennai,5,14,91/10,25,13,no,Suresh,43,6
+,Aanya Khandelwal,,male ,Finance,Manager,Rs 139882,09/30/2012, mumbai,6/10,16,84,57,5 pts,Resigned,Amit,46,8/10
+,Arjun Patel,,unknown,Sales,associate,~90399,Dec 18 2016,delhi ,,8,85 pts,29,18,N,Suresh,37,1
+ 1924,Mohan Kumar,Thirty,Female,Finance,Executive,120.0k,14/03/2015,delhi ,9,2,94,45%,13,Terminated,Rohit,24,high
+,arjun patel,,M,IT,Senior Analyst,94 660,,Mumbai,,7,43,41,21%,1,Amit,50,9
+E1926,Maya Shah,,Female,markting,Executive,Rs 20059,2022-03-14,,6,12,61,25,10,Terminated,Neha,27,
+ 1927,AANYA SRIVASTAVA,Thirty,Female,Hr ,Manager,~107422,22/04/2020,Delhi,,18,77,26,18,No,Suresh,7,high
+E1928 ,Pooja Shah,38,Male,HR,Executive,127582,2014-10-09,Pune,,9,72,43,22, ,Priya,15,6
+E1929 ,Sneha Nair,30,Female,it,Analyst,"₹136,972",May 19 2009, mumbai,3,11,89,38,22,yes,Suresh,25,
+E1830,Amit Singh,28,,Hr ,Analyst,,08/30/2008,Pune,N/A,20,85,23,15,Yes,priya ,41,1
+E1831, Sonia Mehta,Thirty,unknown,IT,Intern,,01/31/2011,delhi ,,9,91,33,13,no, ROHIT,20,
+ 1932,Rahul Mehta,Thirty,,it,Analyst,82666,05/08/2022, mumbai,8,16,55%,47,21/10,N,Neha,19,6
+E1933 ,Ritu Sharma,Thirty,male ,OPS, executive,~45928,26-Apr-19,Hyderabad,2/10,17,98,36,8,N,Manager X,21/10,high
+ 1934,Rohit Bose,Thirty,Female,Sales, executive,85 258,31/01/2023,Hyderabad,,19 pts,86%,51,4 pts,yes,,44,8
+E1835,Pooja Patel,46,F,Operations,Intern,,10/19/2024,Pune,2/10,14,67,33 pts,19,No,Amit,34,4
+E1936 ,Priya  Das,19,Female,it,Analyst,unknown,2016-05-07,Delhi,1,16,56%,48 pts,13,Resigned,priya ,41,high
+ 1937,Kriti Shah ###,35,male ,OPS,Lead,53.5k,11/18/2014,Pune,N/A,11%,91,20 pts,3,N,Manager X,47,8/10
+E1838,rahul Singh,47,Female,Hr , executive,"₹124,190",Jun 15 2021,,N/A,13,63,50,25,Resigned,Neha,39,3
+,Dev Khandelwal,Thirty,,it,Manager,,01/03/2013,Mumbai,9,15,65,22,3,N, ROHIT,21,high
+E1840,RAHUL JOSHI,56,F,Fin,Executive,"₹78,727",02/03/2015,Delhi,,,43,24,17,Terminated,Manager X,22,
+,Ramesh Chopra,Thirty,,Hr ,Lead,Rs 111559,15/05/2024,Mumbai,N/A,,57 pts,51,3,No,priya ,23,high
+E1942,Pooja Sharma,Thirty,,Marketing,Intern,unknown,07/22/2014,,N/A,15%,47,20,14,Terminated,Suresh,,
+,Sonia Joshi,Thirty,male ,Fin,Analyst,118.9k,04/12/2009,Chennai,N/A,14,72,36,9,Resigned,Priya,6,1
+ 1944,Arjun Chopra,,Female,it,Manager,,22-Oct-09,Delhi,,7,52,44,0,N,Neha,24%,
+E1945,Rohit Das,Thirty,M,Sales, executive,,12-Jul-24,Chennai,,4,59,47,7,no, ROHIT,16,7
+E1946,sonia saxena,,male ,markting,Executive,"₹74,144",05/22/2015,Chennai,6/10,12,79,37,,no,Rohit,12,high
+ 1947,Priya Mehta,Thirty,Male,Operations,Analyst,,Feb 24 2019,Mumbai,8/10,11,58,37,15,Y,,16,8/10
+,MOHAN VERMA,,male ,it, executive,,09/03/2016,,10/10,17,58,57%,0,0,Rohit,23,8/10
+E1949,rohit saxena,32,male ,Hr ,Analyst,Rs 77718,01/19/2011,Mumbai,5/10,3,53%,34,24,Terminated, ROHIT,33,8/10
+ 1950,rahul bose,Thirty,male ,Fin, executive,115 146,Nov 14 2014, mumbai,N/A,16,86,38,25%,Resigned,Neha,8,5
+E1851,Vikram Srivastava,42,unknown,sales,Intern,113125,2014-03-17,delhi ,,3,54,21,22, ,Rohit,2,high
+E1852,Mohan Kapoor,,unknown,Marketing,Executive,47.0k,10/12/2013,Chennai,4/10,14,66,25,1,Yes,priya ,28,high
+ 1953,Zara Shah,,Female,Operations,manager,82.4k,08/03/2008,Pune,9/10,2,82,23,7,no,Priya,8,5
+,dev das,,Male,it,Executive,73998,,Delhi,3/10,0,45,27,8,Terminated,Manager X,,
+E1955,Sonia Das,,Female,Hr ,manager,78389,2012-05-29,Delhi,,,90,,16,Terminated,Manager X,33,high
+E1956,RAHUL DAS,46,F,sales, executive,101 530,14-Nov-10,Pune,,3,,34,,Y,,9,
+,Kriti Mehta,,male ,Sales,Lead,unknown,07/02/2024, mumbai,8,2,69,38,19,Resigned,Manager X,13,high
+ 1958,Vikram Gupta,,F,Hr ,associate,21 912,2014-07-26,,N/A,11,63,47,4,no,Rohit,30,8
+E1859,Karan Joshi,33,Male,it,manager,~80009,08/01/2010,Chennai,5/10,10,40,20,15,Terminated,Amit,,5
+E1860,Sonia Joshi,,unknown,markting,Lead,127002,22-Dec-08,Delhi,,12 pts,90,22,23,Terminated,priya ,19,8/10
+E1961,rahul Joshi,,unknown,markting,Lead,124 856,07/29/2024,delhi ,N/A,13/10,58,39/10,15,Terminated,Priya,16,8/10
+E1862,amit  Nair,Thirty,M,HR,manager,93818,,Mumbai,4,9,56,49,11,No,priya ,41,high
+E1963 ,Isha Shah,,unknown,OPS, executive,,12/16/2016,,N/A,8,,41,13,yes,Priya,31,8/10
+ 1964,Suresh Shah,35,M,Sales, executive,~30093,Apr 15 2017,Pune,N/A,7,83,50,,yes,Priya,16,
+ 1965,SONIA RAO !!,,Male,sales,manager,~52976,03/04/2019, mumbai,,4,44,49,22,No,priya ,36,8/10
+E1966,rahul Rao,45,F,it,manager,unknown,13-Jul-09,Pune,6,3,47,47,19,yes,Neha,25,high
+E1867,Arjun Kapoor,,unknown,Fin,Analyst,31856,2019-02-02,Delhi,6/10,0,69,27,20%,Terminated,Suresh,22,high
+E1968 ,AMIT  PATEL,58,F,OPS,manager,Rs 24780,30/05/2024,Hyderabad,6/10,17 pts,40,40,24,Terminated,Suresh,10 pts,high
+E1869,sonu bose ###,33,Male,Fin,Lead,Rs 23203,02/02/2008,Chennai,2,14,51,35,15,0,,22,8/10
+E1870,Maya Bose,,unknown,HR,Executive,unknown,05/16/2010,Chennai,4/10,19,43,42%,6,no,Neha,36/10,high
+ 1971,Ankita Chopra,54,M,Fin,Analyst,,Jun 12 2023,Mumbai,,19,63,25,2,Terminated,Rohit,11,6
+E1972,Amit Nair,,male ,Finance,Executive,unknown,02/09/2013,Pune,N/A,20,68,40,20,0, ROHIT,20,
+E1873,ISHA BOSE,,F,OPS,Executive,unknown,03-Sep-18, mumbai,,17,75,21,13,Y,,22,high
+E1974,Aanya Chopra,49, FEMALE,HR,associate,"₹68,031",17-Mar-19,Hyderabad,,18,40/10,34,5,Y, ROHIT,16,
+E1875,Pooja Singh,Thirty, FEMALE,markting,Senior Analyst,Rs 79396,22-Nov-16,Delhi,,4,43,22,15,yes,Priya,1,high
+E1876,kriti singh  ,Thirty,male ,Sales,Lead,unknown,Dec 22 2022, mumbai,4,17,82,51,0,Resigned,Rohit,19,8/10
+ 1977,Sneha Bhat,Thirty,male ,Finance,associate,Rs 73539,09/02/2024,Delhi,,18,67,31,4,yes,Manager X,28,high
+E1978 ,Sakshi Bhat,,M,Finance,Senior Analyst,53 202,27-Aug-17,Hyderabad,,3,86,23,12,1, ROHIT,44,
+,Ramesh Srivastava ###,Thirty, FEMALE,HR,associate,unknown,08-Apr-15,Mumbai,,1,54,26,3,Y,priya ,26,8/10
+E1980 , Kriti Rao,28,Male,HR, executive,"₹48,188",25/03/2016,Delhi,3/10,18/10,53/10,35,24,Y,Amit,37,8
+E1881, Sunita Gupta,25, FEMALE,Fin,Analyst,137.6k,28-Mar-18, mumbai,7,0,81,25,10,yes,Suresh,19,8/10
+E1982,Karan Kumar,,Male,markting,associate,79270,Feb 26 2011,Pune,1,1,,54,20,yes,Neha,10%,high
+ 1983,ritu mehta,40,unknown,sales,Executive,Rs 67309,17/12/2008,Mumbai,4,13,58,33,21%,1,priya ,32,8/10
+E1884,KRITI SHARMA,34,,Hr ,Senior Analyst,122198,Nov 30 2008,delhi ,,,100,32 pts,24 pts,Yes,priya ,,high
+E1885,Isha Chopra___,,unknown,Sales,Analyst,93.3k,03-Aug-22,Hyderabad,5,10,,51,14,no,Rohit,,
+E1886,amit bose ###,45,,it,Analyst,29567,01/04/2012,Delhi,7,2,93,24,21,0,,32,
+,Sonia Verma  ,23,Female,Fin,Analyst,"₹139,788",02/25/2014,Hyderabad,N/A,14,95,45,1,0,,19,8/10
+E1988,Suresh Singh,,unknown,it,Executive,,27/03/2015,Pune,,20,74,50,16,yes,Neha,13,8
+E1889,amit  nair,,F,markting,associate,unknown,05/31/2014,Pune,4/10,10,83,58,21,yes,priya ,15,
+,Pooja Sharma !!,30,male ,Sales,Manager,Rs 54315,07/12/2016,delhi ,N/A,6,73,33,9,No,Suresh,13,3
+E1991,Neha Agarwal,,male ,IT,Manager,102 808,01/10/2022,Hyderabad,4,11%,47,51,8, , ROHIT,28,high
+E1892,vikas Srivastava,,F,Sales,Analyst,~80911,11/08/2013,Mumbai,,15,,49,8,No,Amit,46,high
+E1893,Priya  Khandelwal,37,Male,OPS,Manager,140 706,18-Apr-08,Hyderabad,10,0,80,39,4,Resigned,priya ,38,high
+E1994,Arjun Kumar !!,,Male,IT,Senior Analyst,unknown,,delhi ,N/A,5,74,52,3,1,Priya,16,
+,Priya Agarwal,Thirty,male ,IT,Analyst,142085,2014-05-31,delhi ,,12,54,54,11,N,Suresh,29,
+E1996 ,amit  Srivastava  ,,F,sales,Lead,76957,2024-02-23,Delhi,10/10,19,46,34,10,Yes,Rohit,33,8/10
+E1997 ,amit  Sharma,43,unknown,Operations,Manager,Rs 124490,Dec 26 2009,delhi ,7/10,4,58,28,9 pts, ,Neha,20,high
+E1898,Kavita Agarwal,Thirty, FEMALE,Operations,Lead,137.4k,Aug 26 2013, mumbai,3,5,92,46,20,N,Rohit,10,high
+ 1999,rahul Saxena,Thirty,Male,IT,Analyst,127.5k,08/12/2015,Delhi,8,17,76,38 pts,15,Resigned,Manager X,4,8/10
